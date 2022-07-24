@@ -1,14 +1,13 @@
-<div align="center">
+<div>
     <h1>Twitter Bots List</h1>
     <i>A collective list of bots on Twitter</i>
 </div>
-
----
 
 <br />
 
 ## Index
 
+* [Cams](#cams)
 * [Crypto Currencies](#crypto-currencies)
 * [Flights](#flights)
 * [Funny](#funny)
@@ -22,11 +21,22 @@
 
 <br />
 
+### Cams
+Bot | Description | Status |
+|---|---|---|
+| [Inchydoney Cam](https://twitter.com/InchydoneyCam) | Images from the Inchydoney beach web cam at @inchydoneylodge updated every hour. Now with added #cheese ! Created by @TweetPhelan | - |
+| [Denny Street Cam](https://twitter.com/DennyStreetCam) | Images from @countykerry's web cam at the Ashe Memorial Hall, Denny Street, Tralee updated every hour. Now with added #cheese ! Created by @TweetPhelan | - |
+
+**[⬆ Back to Index](#index)**
+
+<br />
+
 ### Crypto Currencies
 Bot | Description | Status |
 |---|---|---|
 | [Bitcoin Block Bot](https://twitter.com/BtcBlockBot) | I watch the blockchain so you don't have to. | - |
 | [Bitcoin Bot🤖](https://mobile.twitter.com/IAmBitcoinBot) | I Tweet the latest #Bitcoin price every 5 min. | - |
+| [CryptoBOT](https://twitter.com/Crypto3OT) | Stay updated. Be ahead. #HODL. Market alerts to monitor volatility and trade entries. Follow me and turn on ‘Alerts’ (Bell icon). | - |
 | [Ðoge Bot🤖](https://twitter.com/IAmDogeBot) | I Tweet the latest #Ðogecoin price every 5 min. | - |
 
 **[⬆ Back to Index](#index)**
@@ -72,6 +82,7 @@ Bot | Description | Status |
 
 <br />
 
+<!-- from https://twitter.com/i/lists/106524957/ -->
 ### Scientific Literature
 Bot | Description | Status |
 |---|---|---|
@@ -90,6 +101,7 @@ Bot | Description | Status |
 | [Linux Bot](https://twitter.com/Linux__Bot) | I retweet everything about #linux ! | offline |
 | [psd2ohtml](https://twitter.com/psd2ohtml) | - | cancelled |
 | [Space TFRs](https://twitter.com/SpaceTfrs) | I tweet new SPACE OPERATION temporary flight restrictions posted by the FAA. My manager of human affairs is Ben Hallert (@Chairboy) | - |
+| [trendingpalette](https://twitter.com/trendingpalette) | - | offline |
 
 **[⬆ Back to Index](#index)**
 
