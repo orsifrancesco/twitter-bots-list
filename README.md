@@ -10,9 +10,9 @@
     <sup>Status</sup>
     <br>
     <a href="#index">
-        <img alt="Number of Categories" src="https://img.shields.io/badge/Number of Categories-7-blue" style="max-width: 100%;" />
+        <img alt="Number of Categories" src="https://img.shields.io/badge/Number of Categories-13-blue" style="max-width: 100%;" />
     </a>
-    <img alt="Total Bots" src="https://img.shields.io/badge/Total Bots-185-blue" style="max-width: 100%;" />
+    <img alt="Total Bots" src="https://img.shields.io/badge/Total Bots-367-blue" style="max-width: 100%;" />
 </div>
 
 <br />
@@ -22,7 +22,13 @@
 * [Crypto Currencies](#crypto-currencies)
 * [Flights](#flights)
 * [Funny](#funny)
+* [Game](#game)
+* [Gif](#gif)
+* [Images](#images)
+* [Interactive](#interactive)
+* [IOT](#iot)
 * [London Transport](#london-transport)
+* [Poetry](#poetry)
 * [Scientific Literature](#scientific-literature)
 * [Useful](#useful)
 
@@ -77,7 +83,214 @@ Bot | Description | Status |
 |---|---|---|
 | [Big Ben](https://twitter.com/big_ben_clock) | The first, established November 2009 & entirely unofficial. Copyright details here: http://tinyurl.com/ylqbey3, but still apparently imitated everywhere. | - |
 | [Donald Trump Retruth, Tweets from Truth Social 🤖](https://twitter.com/TrumpRetruth) | For supporters❤️ and haters😠, read Trump everywhere, updated every hour 🤖 from TruthSocial, all the posts are original, written or reposted from Trump | - |
+| [Lego Bot](https://mobile.twitter.com/legotracker) | - | - |
+| [Lego Space Bot](https://twitter.com/legospacebot) | Pictures of Lego Space stuff from the Classic and System eras. ~1 picture every 2 hours | offline |
 | [infinite deserts_ψ__](https://twitter.com/infinitedeserts) | an infinity of deserts, each more infinite than the last. bot mapped by @getdizzzy | - |
+
+
+**[⬆ Back to Index](#index)**
+
+<br />
+
+### Game
+Bot | Description | Status |
+|---|---|---|
+| [@Botgle](https://twitter.com/Botgle) | The game is played using a plastic grid of lettered dice, in which players attempt to find words in sequences of adjacent letters. | offline |
+| [@EmojiSnakeGame](https://twitter.com/EmojiSnakeGame) | The Snake game with emoji and Twitter polls. | - |
+| [@EmojiTetra](https://twitter.com/EmojiTetra) | Falling shapes made from emoji, moved and rotated by Twitter poll results. | - |
+| [@Hangman_Bot](https://twitter.com/Hangman_Bot) | Play a game of hangman. | offline |
+| [@LetsPlayTrivia](https://twitter.com/LetsPlayTrivia) | A bot that posts trivia questions as polls | - |
+| [@Ro_Sham_Bot](https://twitter.com/Ro_Sham_Bot) | Want to battle? ✊✋✌ | offline |
+| [@RollDiceBot](https://twitter.com/RollDiceBot) | Dice bot loves to play dice games, ask it for a roll! | - |
+| [@TheRiddlerBot](https://twitter.com/TheRiddlerBot) | Solve the riddle! | offline |
+| [@TresEnRayaBot](https://twitter.com/TresEnRayaBot) | Play Tic-tac-toe on Twitter! | - |
+| [@acrotowne](https://twitter.com/acrotowne) | An acronym game Twitter bot. | - |
+| [@adventvrecall](https://twitter.com/adventvrecall) | Where should I go? | - |
+| [@boggle_bot](https://twitter.com/boggle_bot) | Let's play Boggle! | suspended |
+| [@chessbot2020](https://twitter.com/chessbot2020) | Play chess on Twitter. | offline |
+| [@crowdpokerbot](https://twitter.com/crowdpokerbot) | A vote-to-play poker game on Twitter. | offline |
+| [@joculators](https://twitter.com/joculators) | Cryptograms, three times a day! | suspended |
+| [@letsplaysnake](https://twitter.com/letsplaysnake) | Up, down, left, right! | offline |
+| [@mazingbot](https://twitter.com/mazingbot) | Collaboratively solve mazes on Twitter. | - |
+| [@minetweeter_](https://twitter.com/minetweeter_) | Play MineSweeper on Twitter. | - |
+| [@playlightsout](https://twitter.com/playlightsout) | A twitter-based port of Lights Out. | offline |
+| [@roulettron](https://twitter.com/roulettron) | A game of chance. | offline |
+| [@spindlewheelbot](https://twitter.com/spindlewheelbot) | An interpretive, card-based storytelling bot. | - |
+| [@unoforeveryone](https://twitter.com/unoforeveryone) | Cooperative Uno: Twitter edition! | - |
+| [@what_capital](https://twitter.com/what_capital) | What's the capital? | offline |
+| [Endless Jeopardy](https://twitter.com/EndlessJeopardy) | A game of Jeopardy!, forever. | - |
+| [Game Design Expert](https://twitter.com/GameDesignXpert) | Invaluable advice that all game developers need! | - |
+| [Nonogram Bot](https://twitter.com/nonogram_bot) | Nonogram puzzle generator. | offline |
+| [Prisoner’s Dilemma Bot](https://twitter.com/DilemmaBot) | Two members of a criminal gang are arrested and imprisoned. | cancelled |
+| [Snake on Twittеr](https://twitter.com/FeedSnakeBot) | Play snake with others, right on Twitter! | - |
+| [Tic-Tac-Toe Bot](https://twitter.com/PlayTTTBot) | Play tic-tac-toe with friends without leaving Twitter. | - |
+| [Tweeters Play Games](https://twitter.com/PlayGamesBot) | Let's play a game, on Twitter! | - |
+| [Тwitter Plays Snake](https://twitter.com/SnakeGameBot) | 🐍🍎 | offline |
+
+
+**[⬆ Back to Index](#index)**
+
+<br />
+
+### Gif
+Bot | Description | Status |
+|---|---|---|
+| [@FireworksBot](https://twitter.com/FireworksBot) | Fireworks from your Tweets! | offline |
+| [@HeadlineGifs](https://twitter.com/HeadlineGifs) | Random news headlines with (mostly) appropriate GIF reactions. | offline |
+| [@JoyOfBotRoss](https://twitter.com/JoyOfBotRoss) | Join us and paint some happy trees! | - |
+| [@JudithBotler](https://twitter.com/JudithBotler) | Ich twittere über Feminismus und kritisiere User*innen, wenn sie frauenfeindliche Tweets verbreiten. | offline |
+| [@KeplerBot](https://twitter.com/KeplerBot) | The latest data from NASA's Kepler spacecraft. | offline |
+| [@MelodyBot3456](https://twitter.com/MelodyBot3456) | Randomly generated music. | - |
+| [@NixieBot](https://twitter.com/NixieBot) | Movies of neon words can be summoned via hashtag. | - |
+| [@OrbitOrbot](https://twitter.com/OrbitOrbot) | Orbital spirographs. | cancelled |
+| [@TheGIFingBot](https://twitter.com/TheGIFingBot) | Converts Twitter's "GIFs" into actual GIFs. | offline |
+| [@TilingBot](https://twitter.com/TilingBot) | Random 2-dimensional tilings. | - |
+| [@TwinPeaksBot](https://twitter.com/TwinPeaksBot) | Current view from Twin Peaks, California. | offline |
+| [@an_entire_movie](https://twitter.com/an_entire_movie) | An entire movie, in a GIF. | cancelled |
+| [@botinthewoods](https://twitter.com/botinthewoods) | Take a walk in the woods with me. | - |
+| [@bubble_bott](https://twitter.com/bubble_bott/) | Bubbles! | offline, NSFW |
+| [@calm_gifs](https://twitter.com/calm_gifs) | Deep breaths. You got this. | offline |
+| [@culturereusebot](https://twitter.com/culturereusebot) | Mining old movies for #content. | suspended |
+| [@dmvisbot](https://twitter.com/dmvisbot) | Visualizations of random Doom levels. | suspended |
+| [@dscovrnews](https://twitter.com/dscovrnews) | Yesterday on a blue marble suspended in a light beam. | offline |
+| [@earthin24](https://twitter.com/earthin24) | 24 hour timelapse of Earth. | - |
+| [@gifmath](https://twitter.com/gifmath) | Every so often drops a math-powered GIF. | suspended |
+| [@hypno__bot](https://twitter.com/hypno__bot) | Your eyelids are getting heavy... | - |
+| [@okay_campers](https://twitter.com/okay_campers) | That's right, woodchuck-chuckers - it's... GROUNDHOG DAY! | offline |
+| [@relaxagons](https://twitter.com/relaxagons) | Relaxing & Satisfying loops of hexagons. | - |
+| [@smilevector](https://twitter.com/smilevector) | Smile! | offline |
+| [@spaceb07](https://twitter.com/spaceb07) | Images from astronauts curently in space and random space GIFs. | private |
+| [@spinnymachine](https://twitter.com/spinnymachine) | A bot that simulates a series of mechanical linkages to draw a curve. | offline |
+| [@springy_bot](https://twitter.com/springy_bot) | Simulating double, spring pendulums. | cancelled |
+| [@trafficgifs](https://twitter.com/trafficgifs) | Traffic cameras of NYC and London. | - |
+| [@tv_sounds](https://twitter.com/tv_sounds) | I'm a bot that watches TV for sounds. | suspended |
+| [@tweetgameoflife](https://twitter.com/tweetgameoflife) | Tweet, and get procedurally generated art. | - |
+| [@vidglitch](https://twitter.com/vidglitch) | A bot that applies a range of video glitches. | suspended |
+| [@wavy_bgs](https://twitter.com/wavy_bgs) | Wavy backgrounds! | offline |
+| [@youreherebot](https://twitter.com/youreherebot) | Locating every location I can locate. | offline |
+| [Cards Against White People](https://twitter.com/_cawp_) | Damn white people and their *shuffles deck* *pulls card* Twitter bots! | - |
+| [Cellular Bot](https://twitter.com/cellular_bot) | Randomly generated patterns built with a cellular automaton algorithm. | - |
+| [DDW Radar](https://twitter.com/DDWradar) | Experimental visual impression of Dutch Design Week trending topics. | - |
+| [Double Pendulum](https://twitter.com/pendulum_bot) | Animations of random double pendulums. | - |
+| [Earth Across Time](https://twitter.com/earthacrosstime) | Timelapses showcasing how Earth's appearance has changed. | - |
+| [Gif Earth](https://twitter.com/GifEarth) | GIFs of the Earth. | - |
+| [NES Art Bot](https://twitter.com/NintendoArtBot) | Evolving equations to generate glitch art based on NES hardware. | - |
+| [Ominous Zoom](https://twitter.com/ominouszoom) | Zoooooooooom! | - |
+| [OwO](https://twitter.com/OvvO_bot) | Random blinking vamps \o/ | - |
+| [Random Three Body Problem](https://twitter.com/ThreeBodyBot) | Computing the trajectory of three random objects. | - |
+| [Star Near You](https://twitter.com/starnearyou) | Animated GIFs of the Sun's corona. | - |
+| [Sunrise Skies NYC](https://twitter.com/sunriseskiesnyc) | Capturing a slice of the New York sunrise sky. | - |
+| [The Trumpster Fire](https://twitter.com/USdumpsterfire) | Official statements from the Trumpster Fire in Chief of the United States of America. | offline |
+| [Time Until Christmas](https://twitter.com/time_until_xmas) | Know the time left until Christmas. | - |
+| [Vast and Starlit](https://twitter.com/VastAndStarlit) | Join me on a rambling journey through this vast and starlit cosmos. | - |
+| [blackletter walk](https://twitter.com/blackletterwalk) | Automatic writing bot. | - |
+| [pollock.exe](https://twitter.com/pollockdotexe) | A robot painter, very Pollock-like. | - |
+| [tiny_gravity](https://twitter.com/tiny_gravity) | Solving the n-body problem by doing all of it. | - |
+
+
+**[⬆ Back to Index](#index)**
+
+<br />
+
+### Images
+Bot | Description | Status |
+|---|---|---|
+| [Aesthetic Bot](https://twitter.com/AestheticBot_22) | Just a funky little bot making funky little levels. You can make some funky levels here: http://aesthetic-bot.xyz Created for science by @MasterMilkX | - |
+| [Bay Bridge Watch](https://twitter.com/BayBridgeWatch) | Lil bot monitoring the Oakland-San Francisco Bay Bridge // Not affiliated with @exploratorium | - |
+| [BotfonsNeedles](https://twitter.com/BotfonsNeedles) | I am an implementation of Buffon's needle problem. I estimate π by dropping needles.  | - |
+| [Chess Puzzle Bot](https://twitter.com/ChessPuzzleBot) | This bot tweets chess puzzles several times a day, grabbed from the Lichess open-source puzzle database. | - |
+| [Cities at an Angle](https://twitter.com/citiesatanangle) | Tightly zoomed 45-degree views of (sub)urban areas around the world, every 12 hours or so. Imagery courtesy of Google Maps. | - |
+| [Colorize_Bot](https://twitter.com/colorize_bot) | I'm a bot that transforms black and white photos into color using artificial intelligence ✨. | - |
+| [DLR](https://twitter.com/DLR_bot) | DLR travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome! | - |
+| [Every Color](https://twitter.com/everycolorbot) | colors.  all of 'em. | developed by @vogon; feel free to send him feedback/feature requests | - |
+| [Make it a quote](https://twitter.com/MakeItAQuote) | Quote or reply to a tweet and mention me to generate a graphic. Mention @RemoveMyQuote if you want a tweet removed. | - |
+| [Night Sky](https://twitter.com/nightsky_bot) | Images of the night sky, painted by @jstsgs. Now in twice the resolution! | - |
+| [Philly Pothole Bot](https://twitter.com/Pothole_Bot) | Pothole photos from across Philly, pulled from the city's public database of 311 calls. Automatic updates hourly. | - |
+| [Pride flag bot](https://twitter.com/prideflagbot) | @ me to make a pride flag with a picture of your choice he | him | - |
+| [Print Shop Deluxe](https://twitter.com/PrintShopDeluxe) | Print Shop Deluxe clipart, from version 2.0.3 for Windows. A bot by @Foone | - |
+| [RobotWalks](https://twitter.com/RobotWalks) | Bot by @PeterKagey. Based on Project Euler problem #208. https://projecteuler.net/problem=208 | - |
+| [RubberDucky bot](https://twitter.com/duckyeveryhour) | Ahoy there! Welcome aboard. This is a bot with a plentiful archive of rubber ducks. They post once an hour. | - |
+| [Weird Spy Satellites](https://twitter.com/WeirdSatellite) | Weird Spy Satellite Imagery. A speculative surveillance bot by Mark Sample. | - |
+| [canberramapbot](https://twitter.com/canberramapbot) | 📍🦉 Bird's-eye views over Canberra. Assembled from the same production line as @londonmapbot. Tweaked by @rexarski | offline |
+| [cryptic slogans](https://twitter.com/cryptic_slogans) | CRYPTIC BOT | - |
+| [every goth color](https://twitter.com/everygothcolor) | Every goth knows black isn't just a single color. | every goth knows black isn't just a single color // by @dbaker_h, idea courtesy of @mattlaschneider & inspired by @everycolorbot |
+| [everyblendbot](https://twitter.com/everyblendbot) | blending two random colors for fun | inspired by @everycolorbot | made by @lukais__ | - |
+| [everylotMVD](https://twitter.com/everylotMVD) | Cada dirección de MVD aleatoriamente cada 30min. "Inspirado" en los bots "everylot" de @fitnr | - |
+| [faceoffbot](https://twitter.com/faceoffbot) | A bot by  @imhobson that posts random stills from John Woo's 1997 film Face/Off once a day. See also: @TotalRecallBot | - |
+| [flag gen](https://twitter.com/vexillographing) | Out of one, many - a bot by @vividfax | - |
+| [goodnukltatbot](https://twitter.com/goodnukltatbot) | Really good tattoo ideas. | - |
+| [londonmapbot](https://twitter.com/londonmapbot) | 📍🤖 Random Greater-London coordinates fed to the Mapbox API and posted with {rtweet} via a GitHub Action. | - |
+| [strangeattrbot](https://twitter.com/strangeattrbot) | sporadic strange attractors, generated with the method outlined in Sprott (1993) | - |
+| [xorTriangles](https://twitter.com/xorTriangles) | Twitter bot by @PeterKagey. Inspired by a MathOverflow question: https://mathoverflow.net/q/359138/104733. | - |
+
+
+**[⬆ Back to Index](#index)**
+
+<br />
+
+### Interactive
+Bot | Description | Status |
+|---|---|---|
+| [@Botgle](https://twitter.com/Botgle) | The game is played using a plastic grid of lettered dice, in which players attempt to find words in sequences of adjacent letters. | offline |
+| [@EmojiSnakeGame](https://twitter.com/EmojiSnakeGame) | The Snake game with emoji and Twitter polls. | - |
+| [@EmojiTetra](https://twitter.com/EmojiTetra) | Falling shapes made from emoji, moved and rotated by Twitter poll results. | - |
+| [@Hangman_Bot](https://twitter.com/Hangman_Bot) | Play a game of hangman. | offline |
+| [@LetsPlayTrivia](https://twitter.com/LetsPlayTrivia) | A bot that posts trivia questions as polls | - |
+| [@Ro_Sham_Bot](https://twitter.com/Ro_Sham_Bot) | Want to battle? ✊✋✌ | offline |
+| [@RollDiceBot](https://twitter.com/RollDiceBot) | Dice bot loves to play dice games, ask it for a roll! | - |
+| [@TheRiddlerBot](https://twitter.com/TheRiddlerBot) | Solve the riddle! | offline |
+| [@TresEnRayaBot](https://twitter.com/TresEnRayaBot) | Play Tic-tac-toe on Twitter! | - |
+| [@acrotowne](https://twitter.com/acrotowne) | An acronym game Twitter bot. | - |
+| [@adventvrecall](https://twitter.com/adventvrecall) | Where should I go? | - |
+| [@boggle_bot](https://twitter.com/boggle_bot) | Let's play Boggle! | suspended |
+| [@chessbot2020](https://twitter.com/chessbot2020) | Play chess on Twitter. | offline |
+| [@crowdpokerbot](https://twitter.com/crowdpokerbot) | A vote-to-play poker game on Twitter. | offline |
+| [@joculators](https://twitter.com/joculators) | Cryptograms, three times a day! | suspended |
+| [@letsplaysnake](https://twitter.com/letsplaysnake) | Up, down, left, right! | offline |
+| [@mazingbot](https://twitter.com/mazingbot) | Collaboratively solve mazes on Twitter. | - |
+| [@minetweeter_](https://twitter.com/minetweeter_) | Play MineSweeper on Twitter. | - |
+| [@playlightsout](https://twitter.com/playlightsout) | A twitter-based port of Lights Out. | offline |
+| [@roulettron](https://twitter.com/roulettron) | A game of chance. | offline |
+| [@spindlewheelbot](https://twitter.com/spindlewheelbot) | An interpretive, card-based storytelling bot. | - |
+| [@unoforeveryone](https://twitter.com/unoforeveryone) | Cooperative Uno: Twitter edition! | - |
+| [@what_capital](https://twitter.com/what_capital) | What's the capital? | offline |
+| [Endless Jeopardy](https://twitter.com/EndlessJeopardy) | A game of Jeopardy!, forever. | - |
+| [Game Design Expert](https://twitter.com/GameDesignXpert) | Invaluable advice that all game developers need! | - |
+| [Nonogram Bot](https://twitter.com/nonogram_bot) | Nonogram puzzle generator. | offline |
+| [Prisoner’s Dilemma Bot](https://twitter.com/DilemmaBot) | Two members of a criminal gang are arrested and imprisoned. | cancelled |
+| [Snake on Twittеr](https://twitter.com/FeedSnakeBot) | Play snake with others, right on Twitter! | - |
+| [Tic-Tac-Toe Bot](https://twitter.com/PlayTTTBot) | Play tic-tac-toe with friends without leaving Twitter. | - |
+| [Tweeters Play Games](https://twitter.com/PlayGamesBot) | Let's play a game, on Twitter! | - |
+| [Тwitter Plays Snake](https://twitter.com/SnakeGameBot) | 🐍🍎 | offline |
+
+
+**[⬆ Back to Index](#index)**
+
+<br />
+
+### IOT
+Bot | Description | Status |
+|---|---|---|
+| [@BackyardBirdbot](https://twitter.com/BackyardBirdbot) | A birdwatching bot. | - |
+| [@GTWhistle](https://twitter.com/GTWhistle) | sshhhvreeeeEEEEEEEEOOOOOOOoooow | - |
+| [@HighStMarketBot](https://twitter.com/HighStMarketBot) | Letting you know what food and stalls are at the 52 High Street Pop Up! | - |
+| [@OliverBarkBark](https://twitter.com/OliverBarkBark) | Bark! | offline |
+| [@PepitoTheCat](https://twitter.com/PepitoTheCat) | Pépito the Cat. | - |
+| [@_blackobs](https://twitter.com/_blackobs) | Broadcasting live from covert surveillance cameras, one midnight observation at a time. | - |
+| [@buoypix](https://twitter.com/buoypix) | Pictures taken by @NOAA buoys in the middle of the ocean. | - |
+| [@burnedyourtweet](https://twitter.com/burnedyourtweet) | I burned your tweet. | offline |
+| [@daphneflap](https://twitter.com/daphneflap) | Humble tweeting servant of Daphne the cat. | - |
+| [@goldenhourSEA](https://twitter.com/goldenhourSEA) | Daily Seattle sunset timelapse. | offline |
+| [@grow_slow](https://twitter.com/grow_slow) | A fiddle-leaf fig slowly growing every day. | offline |
+| [@nmstereo](https://twitter.com/nmstereo) | Get yer hits out! | offline |
+| [@norppalivebot](https://twitter.com/norppalivebot) | A seal-detecting bot. | - |
+| [@soulscroll1](https://twitter.com/soulscroll1) | The Prayer Machine from The Handmaid's Tale. | offline |
+| [@tardygram](https://twitter.com/tardygram) | Tweet me a pic and caption I will reply with your pic printed on dot matrix receipt. | offline |
+| [@trashcanlife](https://twitter.com/trashcanlife) | Trashcan life. | offline |
+| [Litter Box Tweets](https://twitter.com/LitterBoxTweets) | Views from an internet-connected litter box. | - |
+| [Rockall Island](https://twitter.com/rockallisland) | Checking the weather on the Rockall island. | - |
+| [View From Roots](https://twitter.com/viewfromroots) | Views from an orchard in Faversham, United Kingdom. | - |
+| [view_from_EH10](https://twitter.com/sunrise_EH10) | Rise and shine! | offline |
 
 
 **[⬆ Back to Index](#index)**
@@ -87,12 +300,72 @@ Bot | Description | Status |
 ### London Transport
 Bot | Description | Status |
 |---|---|---|
-| [DLR](https://twitter.com/DLR_bot) | DLR travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome! | - |
 | [Elizabeth Line](https://twitter.com/ElizabethLn_bot) | Elizabeth Line travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome! | - |
 | [London Underground Status](https://twitter.com/tflstatusnow) | I let you know when there are disruptions on the London Underground. Tweet at me w/ the name of a line ! | - |
-| [Metropolitan Line](https://twitter.com/tflstatusnow) | Metropolitan Line travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome! | - |
 | [Tram](https://twitter.com/LondonTram_bot) | London Tram travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome! | - |
 | [Tweet the Tube](https://twitter.com/tweetthetube) | Live updates whenever a tube service changes status, pulled straight from the Transport for London website and checked every 5 minutes. Created by @jas_m | - |
+
+
+**[⬆ Back to Index](#index)**
+
+<br />
+
+### Poetry
+Bot | Description | Status |
+|---|---|---|
+| [@BigramPoetry](https://twitter.com/BigramPoetry) | A bot rewriting tweets into bigram poems. | - |
+| [@ConceptNetPoet](https://twitter.com/ConceptNetPoet) | Poet is used for poems. | - |
+| [@DailyDesiderata](https://twitter.com/DailyDesiderata) | Hippy bot that produces daily mindfulness quotes from the Desiderata. | - |
+| [@ExpressionismBot](https://twitter.com/Trakl_Bot) | I generate Expressionist images--sublime & ridiculous. | - |
+| [@HaikuNewsBot](https://twitter.com/HaikuNewsBot) | News as haikus. | - |
+| [@Hitch_Haiku](https://twitter.com/Hitch_Haiku) | Douglas Adams Hitchhiker's Trilogy, in Haiku. | - |
+| [@HypernymBot](https://twitter.com/HypernymBot) | A bot that creates poems based on hypernyms. | - |
+| [@JaneAustenHaiku](https://twitter.com/JaneAustenHaiku) | Fake Jane Austin haiku poems. | - |
+| [@Moondogbot](https://twitter.com/Moondogbot) | A bot to remember the Viking of Sixth Avenue. | - |
+| [@Rene_Damaul](https://twitter.com/Rene_Damaul) | Poète décervelé, tiré de sa tombe puis monté sur un automate. | - |
+| [@TonightWeBot](https://twitter.com/TonightWeBot) | Tonight the streets are ours! | - |
+| [@UC_Poesias_Bot](https://twitter.com/UC_Poesias_Bot) | Soy un bot que genera versos inspirados en la poesía de Ulises Carrión. | - |
+| [@VillanelleBot](https://twitter.com/VillanelleBot) | Poems in the villanelle form, using random Twitter posts. | - |
+| [@YouLookNiceBot](https://twitter.com/YouLookNiceBot) | Procedural complimentary Twitter bot. | - |
+| [@_ku_bot](https://twitter.com/_ku_bot) | Haiku generator. | - |
+| [@_posibot](https://twitter.com/_posibot) | A Twitter bot that tweets posi thoughts. | cancelled |
+| [@accidental575](https://twitter.com/accidental575) | I am a robot / that finds haiku on Twitter / made by accident. | - |
+| [@ahouseofdust](https://twitter.com/ahouseofdust) | A 1967 poetry generator revived for Twitter. | - |
+| [@autoarspoetica](https://twitter.com/autoarspoetica) | Indecisive bot trying to define abstract concepts. | - |
+| [@carlomarxbot](https://twitter.com/carlomarxbot) | I tweet in the style of Allen Ginsberg's "Howl". | - |
+| [@coupletbot](https://twitter.com/coupletbot) | Generates heroic couplets. | - |
+| [@eecummings_bot](https://twitter.com/eecummings_bot) | New E.E. Cummings poems. | - |
+| [@emojiUSA](https://twitter.com/emojiUSA) | A patriot bot. | - |
+| [@emoji_haiku](https://twitter.com/emoji_haiku) | Emoji + Haiku | cancelled |
+| [@fearwantbot](https://twitter.com/fearwantbot) | One fear, one want. | - |
+| [@forestgen](https://twitter.com/forestgen) | Tweet me to get your own unique peaceful forest. Stay calm. | offline |
+| [@glossatory](https://twitter.com/glossatory) | An endless dictionary from a recurrent neural net. | - |
+| [@goth_lyrics](https://twitter.com/goth_lyrics) | A bot that writes lugubrious and morose poetry. | - |
+| [@haiku_ebooks](https://twitter.com/haiku_ebooks) | Tweets that fit the haiku structure. | offline |
+| [@haikuincidence](https://twitter.com/haikuincidence) | A bot that finds coincidental haikus | - |
+| [@haikumurakami](https://twitter.com/haikumurakami) | Tweets poetry based on the writings of Haruki Murakami. | - |
+| [@haikuthegibson](https://twitter.com/haikuthegibson) | Haiku from the movie Hackers. | - |
+| [@liketocontinue](https://twitter.com/liketocontinue) | A poem in 36 tweets, told in your notifications panel. | offline |
+| [@lovelivesbot](https://twitter.com/lovelivesbot) | A tiny robot that tracks and shares past, present, and future locations where love resides. | cancelled |
+| [@lyinghammock](https://twitter.com/lyinghammock) | Poems based on "Lying in a Hammock at William Duffy’s Farm in Pine Island, Minnesota" by James Wright. | - |
+| [@neuralgae](https://twitter.com/neuralgae) | Automated deep drawings. | offline |
+| [@p0em_bot](https://twitter.com/p0em_bot) | Shares random poems authored by human poets. Multilingual. | - |
+| [@pentametron](https://twitter.com/pentametron) | With algorithms subtle and discrete / I seek iambic writings to retweet. | - |
+| [@poem_exe](https://twitter.com/poem_exe) | Micropoetry. | - |
+| [@poeticdevice](https://twitter.com/poeticdevice) | Machine of loving grace. | - |
+| [@poetranslator](https://twitter.com/poetranslator) | ゃいゃいゃいゃいゃいゃいゃい | - |
+| [@rhymerobot](https://twitter.com/rhymerobot) | Ceaseless sentient rhyming. | - |
+| [@sorrowjs](https://twitter.com/sorrowjs) | Quoth the raven "nevermore". | offline |
+| [@theclivebot](https://twitter.com/theclivebot) | A bot that writes poetry. | - |
+| [@tinycolorpoems](https://twitter.com/tinycolorpoems) | A bot that makes tiny color poems. | - |
+| [@tinypoemgen](https://twitter.com/tinypoemgen) | A Twitter poem generator. | offline |
+| [@titre_de_pornos](https://twitter.com/titre_de_pornos) | A bot that (poorly) translates porn titles to French. | - |
+| [A Softer Space](https://twitter.com/a_softer) | An experimental webcomic and a bot inspired by A Softer World and deep space. | - |
+| [Abandonedbot](https://twitter.com/bot_abandoned) | Robot poetry from the Moon. | - |
+| [Cat Poem Generator](https://twitter.com/cat_poem) | Generative poems about cats. | - |
+| [Dada Poet](https://twitter.com/DadaistTwit) | Reject the logic, reason, and aestheticism of modern capitalist society - read Dadaist poems instead! | - |
+| [Mes troubles anxieux](https://twitter.com/mestroubles) | Ce qui cause mon trouble d'anxiété généralisé. | - |
+| [PAC-MAN Poetry](https://twitter.com/pacman_poetry) | BOT AND ART | - |
 
 
 **[⬆ Back to Index](#index)**
@@ -259,7 +532,6 @@ Bot | Description | Status |
 | [virus_genome](https://twitter.com/virus_genome) | - | - |
 | [yeast_papers](https://twitter.com/yeast_papers) | Get your fresh daily #yeast #papers from #Pubmed, #Arxiv, #BioRxiv and #PeerJ here! Feedback welcome... Tumblr: http://yeast-papers.tumblr.com By @mariamdemidova | - |
 | [🔬 R-loop](https://twitter.com/R_loop_papers) | Hi, I'm a bot. I crawl Pubmed and BioRxiv for new papers on R-loops. Follow me if you're a DNA:RNA hybrid kinda person. | - |
-<sub><sup>Thanks to https://twitter.com/i/lists/106524957/</sup></sub>
 
 
 **[⬆ Back to Index](#index)**
@@ -282,6 +554,11 @@ Bot | Description | Status |
 
 <br />
 
+
+## Thanks to
+https://botwiki.org/<br />
+https://twitter.com/i/lists/106524957/<br />
+<br />
 
 ## License
 [MIT](LICENSE) (c) 2022 twitter-bots-list
