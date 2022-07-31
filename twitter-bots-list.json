@@ -172,7 +172,7 @@
         "url": "https:\/\/twitter.com\/NixieBot",
         "description": "Movies of neon words can be summoned via hashtag.",
         "status": "",
-        "tags": "Gif"
+        "tags": "Gif, IOT"
     },
     {
         "title": "@OliverBarkBark",
@@ -256,7 +256,7 @@
         "url": "https:\/\/twitter.com\/TwinPeaksBot",
         "description": "Current view from Twin Peaks, California.",
         "status": "offline",
-        "tags": "Gif"
+        "tags": "Gif, IOT"
     },
     {
         "title": "@UC_Poesias_Bot",
@@ -914,7 +914,7 @@
         "url": "https:\/\/twitter.com\/BayBridgeWatch",
         "description": "Lil bot monitoring the Oakland-San Francisco Bay Bridge \/\/ Not affiliated with @exploratorium",
         "status": "",
-        "tags": "Images"
+        "tags": "Images, IOT"
     },
     {
         "title": "Behav Ecol Papers",
@@ -1173,7 +1173,7 @@
         "url": "https:\/\/twitter.com\/DLR_bot",
         "description": "DLR travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome!",
         "status": "",
-        "tags": "Images"
+        "tags": "London Transport"
     },
     {
         "title": "DNA topology papers",
@@ -1297,7 +1297,7 @@
     {
         "title": "Every Color",
         "url": "https:\/\/twitter.com\/everycolorbot",
-        "description": "colors.  all of 'em. | developed by @vogon; feel free to send him feedback\/feature requests",
+        "description": "colors.  all of 'em. developed by @vogon; feel free to send him feedback\/feature requests",
         "status": "",
         "tags": "Images"
     },
@@ -1752,7 +1752,7 @@
     {
         "title": "Pride flag bot",
         "url": "https:\/\/twitter.com\/prideflagbot",
-        "description": "@ me to make a pride flag with a picture of your choice he | him",
+        "description": "@ me to make a pride flag with a picture of your choice he him",
         "status": "",
         "tags": "Images"
     },
@@ -1943,7 +1943,7 @@
         "url": "https:\/\/twitter.com\/sunriseskiesnyc",
         "description": "Capturing a slice of the New York sunrise sky.",
         "status": "",
-        "tags": "Gif"
+        "tags": "Gif, IOT"
     },
     {
         "title": "Super Res Microscopy",
@@ -2312,14 +2312,14 @@
     {
         "title": "every goth color",
         "url": "https:\/\/twitter.com\/everygothcolor",
-        "description": "Every goth knows black isn't just a single color.",
-        "status": "every goth knows black isn't just a single color \/\/ by @dbaker_h, idea courtesy of @mattlaschneider & inspired by @everycolorbot",
+        "description": "every goth knows black isn\\'t just a single color \/\/ by @dbaker_h, idea courtesy of @mattlaschneider & inspired by @everycolorbot",
+        "status": "",
         "tags": "Images"
     },
     {
         "title": "everyblendbot",
         "url": "https:\/\/twitter.com\/everyblendbot",
-        "description": "blending two random colors for fun | inspired by @everycolorbot | made by @lukais__",
+        "description": "blending two random colors for fun inspired by @everycolorbot made by @lukais__",
         "status": "",
         "tags": "Images"
     },

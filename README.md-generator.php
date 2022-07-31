@@ -156,13 +156,6 @@ $config = array(
         "tags" => "Game, Interactive"
     ),
     array(
-        "title" => "@FeedSnakeBot",
-        "url" => "https://twitter.com/FeedSnakeBot",
-        "description" => "Play Snake with others, right on Twitter!",
-        "status" => '',
-        "tags" => "Game, Interactive"
-    ),
-    array(
         "title" => "@crowdpokerbot",
         "url" => "https://twitter.com/crowdpokerbot",
         "description" => "A vote-to-play poker game on Twitter.",
@@ -356,7 +349,7 @@ $config = array(
         "url" => "https://twitter.com/sunriseskiesnyc",
         "description" => "Capturing a slice of the New York sunrise sky.",
         "status" => '',
-        "tags" => "Gif"
+        "tags" => "Gif, IOT"
     ), 
     array(
         "title" => "@springy_bot",
@@ -538,7 +531,7 @@ $config = array(
         "url" => "https://twitter.com/TwinPeaksBot",
         "description" => "Current view from Twin Peaks, California.",
         "status" => 'offline',
-        "tags" => "Gif"
+        "tags" => "Gif, IOT"
     ),                 
     array(
         "title" => "@calm_gifs",
@@ -692,7 +685,7 @@ $config = array(
         "url" => "https://twitter.com/NixieBot",
         "description" => "Movies of neon words can be summoned via hashtag.",
         "status" => '',
-        "tags" => "Gif"
+        "tags" => "Gif, IOT"
     ),                 
     array(
         "title" => "@youreherebot",
@@ -700,13 +693,6 @@ $config = array(
         "description" => "Locating every location I can locate.",
         "status" => 'offline',
         "tags" => "Gif"
-    ),
-    array(
-        "title" => "DLR",
-        "url" => "https://twitter.com/DLR_bot",
-        "description" => "DLR travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome!",
-        "status" => '',
-        "tags" => "Images"
     ),
     array(
         "title" => "Aesthetic Bot",
@@ -767,7 +753,7 @@ $config = array(
     array(
         "title" => "Pride flag bot",
         "url" => "https://twitter.com/prideflagbot",
-        "description" => "@ me to make a pride flag with a picture of your choice he | him",
+        "description" => "@ me to make a pride flag with a picture of your choice he him",
         "status" => '',
         "tags" => "Images"
     ),
@@ -795,8 +781,8 @@ $config = array(
     array(
         "title" => "every goth color",
         "url" => "https://twitter.com/everygothcolor",
-        "description" => "Every goth knows black isn't just a single color.",
-        "status" => 'every goth knows black isn\'t just a single color // by @dbaker_h, idea courtesy of @mattlaschneider & inspired by @everycolorbot',
+        "description" => "every goth knows black isn\'t just a single color // by @dbaker_h, idea courtesy of @mattlaschneider & inspired by @everycolorbot",
+        "status" => '',
         "tags" => "Images"
     ),
     array(
@@ -839,7 +825,7 @@ $config = array(
         "url" => "https://twitter.com/BayBridgeWatch",
         "description" => "Lil bot monitoring the Oakland-San Francisco Bay Bridge // Not affiliated with @exploratorium",
         "status" => '',
-        "tags" => "Images"
+        "tags" => "Images, IOT"
     ),
     array(   
         "title" => "Colorize_Bot",
@@ -851,14 +837,14 @@ $config = array(
     array(
         "title" => "everyblendbot",
         "url" => "https://twitter.com/everyblendbot",
-        "description" => "blending two random colors for fun | inspired by @everycolorbot | made by @lukais__",
+        "description" => "blending two random colors for fun inspired by @everycolorbot made by @lukais__",
         "status" => '',
         "tags" => "Images"
     ),
     array(
         "title" => "Every Color",
         "url" => "https://twitter.com/everycolorbot",
-        "description" => "colors.  all of 'em. | developed by @vogon; feel free to send him feedback/feature requests",
+        "description" => "colors.  all of 'em. developed by @vogon; feel free to send him feedback/feature requests",
         "status" => '',
         "tags" => "Images"
     ),
@@ -890,20 +876,6 @@ $config = array(
         "description" => "Twitter bot by @PeterKagey. Inspired by a MathOverflow question: https://mathoverflow.net/q/359138/104733.",
         "status" => '',
         "tags" => "Images"
-    ),
-    array(
-        "title" => "Sunrise Skies NYC",
-        "url" => "https://twitter.com/sunriseskiesnyc",
-        "description" => "Capturing a slice of the New York sunrise sky.",
-        "status" => '',
-        "tags" => "IOT"
-    ),
-    array(
-        "title" => "Bay Bridge Watch",
-        "url" => "https://twitter.com/BayBridgeWatch",
-        "description" => "Views of the Oakland-San Francisco Bay Bridge.",
-        "status" => '',
-        "tags" => "IOT"
     ),
     array(
         "title" => "@HighStMarketBot",
@@ -976,13 +948,6 @@ $config = array(
         "tags" => "IOT"
     ),
     array(
-        "title" => "@TwinPeaksBot",
-        "url" => "https://twitter.com/TwinPeaksBot",
-        "description" => "Current view from Twin Peaks, California.",
-        "status" => 'offline',
-        "tags" => "IOT"
-    ),
-    array(
         "title" => "@trashcanlife",
         "url" => "https://twitter.com/trashcanlife",
         "description" => "Trashcan life.",
@@ -1039,13 +1004,6 @@ $config = array(
         "tags" => "IOT"
     ),
     array(
-        "title" => "@NixieBot",
-        "url" => "https://twitter.com/NixieBot",
-        "description" => "Movies of neon words can be summoned via hashtag.",
-        "status" => '',
-        "tags" => "IOT"
-    ),
-    array(
         "title" => "@PepitoTheCat",
         "url" => "https://twitter.com/PepitoTheCat",
         "description" => "Pépito the Cat.",
@@ -1077,13 +1035,6 @@ $config = array(
         "title" => "London Underground Status",
         "url" => "https://twitter.com/tflstatusnow",
         "description" => "I let you know when there are disruptions on the London Underground. Tweet at me w/ the name of a line !",
-        "status" => '',
-        "tags" => "London Transport"
-    ),
-    array(
-        "title" => "Metropolitan Line",
-        "url" => "https://twitter.com/tflstatusnow",
-        "description" => "Metropolitan Line travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome!",
         "status" => '',
         "tags" => "London Transport"
     ),
@@ -2619,26 +2570,32 @@ $config = array(
         "description" => "",
         "status" => 'offline',
         "tags" => "Useful"
-    ),
-
-    array(
-        "title" => "🔬 R-loop22",
-        "url" => "https://twitter.com/R_loop_papers",
-        "description" => "",
-        "status" => 'offline',
-        "tags" => "Useful"
     )
-
 );
 
-function returnUniqueProperty($array, $property) {
-    // array_map('strtolower', $property);
-    $tempArray = array_unique(array_column($array, $property));
-    $moreUniqueArray = array_values(array_intersect_key($array, $tempArray));
-    return $moreUniqueArray;
+// find duplicates by case insensitive URL!!! ---------------------------------------------------------------------------------------
+
+function findDuplicates($array) {
+    $temp = [];
+    for($i = 0; $i < count($array); $i++) {
+        $url = strtolower($array[$i]['url']);
+        if(!isset($temp[$url])) $temp[$url] = 0;
+        $temp[$url]++;
+    }
+    $found = [];
+    foreach($temp as $key => $value) {
+        if($value > 1) $found[] = $key;
+    }
+    if(count($found)) {
+        echo '<div style="color: red; font-size: 32px;">Duplicates Found!!!</div>';
+        echo '<pre>' . json_encode($found, JSON_PRETTY_PRINT) . '</pre>';
+        exit;
+    }
 }
 
-$config = returnUniqueProperty($config, 'url');
+findDuplicates($config);
+
+// create README.json file ---------------------------------------------------------------------------------------
 
 function sortByOrderTitle($a, $b) { return $a['title'] > $b['title']; }
 
@@ -2660,8 +2617,6 @@ foreach($config as $value) {
 function sortByOrderHash($a, $b) { return $a['hash'] > $b['hash']; }
 
 usort($categories, 'sortByOrderHash');
-
-// create README.json file ---------------------------------------------------------------------------------------
 
 $file = fopen("twitter-bots-list.json", "w");
 fwrite($file, json_encode($config, JSON_PRETTY_PRINT));

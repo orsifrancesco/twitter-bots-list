@@ -201,20 +201,19 @@ Bot | Description | Status |
 | [Chess Puzzle Bot](https://twitter.com/ChessPuzzleBot) | This bot tweets chess puzzles several times a day, grabbed from the Lichess open-source puzzle database. | - |
 | [Cities at an Angle](https://twitter.com/citiesatanangle) | Tightly zoomed 45-degree views of (sub)urban areas around the world, every 12 hours or so. Imagery courtesy of Google Maps. | - |
 | [Colorize_Bot](https://twitter.com/colorize_bot) | I'm a bot that transforms black and white photos into color using artificial intelligence ✨. | - |
-| [DLR](https://twitter.com/DLR_bot) | DLR travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome! | - |
-| [Every Color](https://twitter.com/everycolorbot) | colors.  all of 'em. | developed by @vogon; feel free to send him feedback/feature requests | - |
+| [Every Color](https://twitter.com/everycolorbot) | colors.  all of 'em. developed by @vogon; feel free to send him feedback/feature requests | - |
 | [Make it a quote](https://twitter.com/MakeItAQuote) | Quote or reply to a tweet and mention me to generate a graphic. Mention @RemoveMyQuote if you want a tweet removed. | - |
 | [Night Sky](https://twitter.com/nightsky_bot) | Images of the night sky, painted by @jstsgs. Now in twice the resolution! | - |
 | [Philly Pothole Bot](https://twitter.com/Pothole_Bot) | Pothole photos from across Philly, pulled from the city's public database of 311 calls. Automatic updates hourly. | - |
-| [Pride flag bot](https://twitter.com/prideflagbot) | @ me to make a pride flag with a picture of your choice he | him | - |
+| [Pride flag bot](https://twitter.com/prideflagbot) | @ me to make a pride flag with a picture of your choice he him | - |
 | [Print Shop Deluxe](https://twitter.com/PrintShopDeluxe) | Print Shop Deluxe clipart, from version 2.0.3 for Windows. A bot by @Foone | - |
 | [RobotWalks](https://twitter.com/RobotWalks) | Bot by @PeterKagey. Based on Project Euler problem #208. https://projecteuler.net/problem=208 | - |
 | [RubberDucky bot](https://twitter.com/duckyeveryhour) | Ahoy there! Welcome aboard. This is a bot with a plentiful archive of rubber ducks. They post once an hour. | - |
 | [Weird Spy Satellites](https://twitter.com/WeirdSatellite) | Weird Spy Satellite Imagery. A speculative surveillance bot by Mark Sample. | - |
 | [canberramapbot](https://twitter.com/canberramapbot) | 📍🦉 Bird's-eye views over Canberra. Assembled from the same production line as @londonmapbot. Tweaked by @rexarski | offline |
 | [cryptic slogans](https://twitter.com/cryptic_slogans) | CRYPTIC BOT | - |
-| [every goth color](https://twitter.com/everygothcolor) | Every goth knows black isn't just a single color. | every goth knows black isn't just a single color // by @dbaker_h, idea courtesy of @mattlaschneider & inspired by @everycolorbot |
-| [everyblendbot](https://twitter.com/everyblendbot) | blending two random colors for fun | inspired by @everycolorbot | made by @lukais__ | - |
+| [every goth color](https://twitter.com/everygothcolor) | every goth knows black isn\'t just a single color // by @dbaker_h, idea courtesy of @mattlaschneider & inspired by @everycolorbot | - |
+| [everyblendbot](https://twitter.com/everyblendbot) | blending two random colors for fun inspired by @everycolorbot made by @lukais__ | - |
 | [everylotMVD](https://twitter.com/everylotMVD) | Cada dirección de MVD aleatoriamente cada 30min. "Inspirado" en los bots "everylot" de @fitnr | - |
 | [faceoffbot](https://twitter.com/faceoffbot) | A bot by  @imhobson that posts random stills from John Woo's 1997 film Face/Off once a day. See also: @TotalRecallBot | - |
 | [flag gen](https://twitter.com/vexillographing) | Out of one, many - a bot by @vividfax | - |
@@ -274,8 +273,10 @@ Bot | Description | Status |
 | [@BackyardBirdbot](https://twitter.com/BackyardBirdbot) | A birdwatching bot. | - |
 | [@GTWhistle](https://twitter.com/GTWhistle) | sshhhvreeeeEEEEEEEEOOOOOOOoooow | - |
 | [@HighStMarketBot](https://twitter.com/HighStMarketBot) | Letting you know what food and stalls are at the 52 High Street Pop Up! | - |
+| [@NixieBot](https://twitter.com/NixieBot) | Movies of neon words can be summoned via hashtag. | - |
 | [@OliverBarkBark](https://twitter.com/OliverBarkBark) | Bark! | offline |
 | [@PepitoTheCat](https://twitter.com/PepitoTheCat) | Pépito the Cat. | - |
+| [@TwinPeaksBot](https://twitter.com/TwinPeaksBot) | Current view from Twin Peaks, California. | offline |
 | [@_blackobs](https://twitter.com/_blackobs) | Broadcasting live from covert surveillance cameras, one midnight observation at a time. | - |
 | [@buoypix](https://twitter.com/buoypix) | Pictures taken by @NOAA buoys in the middle of the ocean. | - |
 | [@burnedyourtweet](https://twitter.com/burnedyourtweet) | I burned your tweet. | offline |
@@ -287,8 +288,10 @@ Bot | Description | Status |
 | [@soulscroll1](https://twitter.com/soulscroll1) | The Prayer Machine from The Handmaid's Tale. | offline |
 | [@tardygram](https://twitter.com/tardygram) | Tweet me a pic and caption I will reply with your pic printed on dot matrix receipt. | offline |
 | [@trashcanlife](https://twitter.com/trashcanlife) | Trashcan life. | offline |
+| [Bay Bridge Watch](https://twitter.com/BayBridgeWatch) | Lil bot monitoring the Oakland-San Francisco Bay Bridge // Not affiliated with @exploratorium | - |
 | [Litter Box Tweets](https://twitter.com/LitterBoxTweets) | Views from an internet-connected litter box. | - |
 | [Rockall Island](https://twitter.com/rockallisland) | Checking the weather on the Rockall island. | - |
+| [Sunrise Skies NYC](https://twitter.com/sunriseskiesnyc) | Capturing a slice of the New York sunrise sky. | - |
 | [View From Roots](https://twitter.com/viewfromroots) | Views from an orchard in Faversham, United Kingdom. | - |
 | [view_from_EH10](https://twitter.com/sunrise_EH10) | Rise and shine! | offline |
 
@@ -300,6 +303,7 @@ Bot | Description | Status |
 ### London Transport
 Bot | Description | Status |
 |---|---|---|
+| [DLR](https://twitter.com/DLR_bot) | DLR travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome! | - |
 | [Elizabeth Line](https://twitter.com/ElizabethLn_bot) | Elizabeth Line travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome! | - |
 | [London Underground Status](https://twitter.com/tflstatusnow) | I let you know when there are disruptions on the London Underground. Tweet at me w/ the name of a line ! | - |
 | [Tram](https://twitter.com/LondonTram_bot) | London Tram travel update bot. Follow your line for updates on severe delays or closures. Feedback welcome! | - |
