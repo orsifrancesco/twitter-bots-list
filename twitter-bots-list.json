@@ -1,10 +1,31 @@
 [
     {
+        "title": ".'.'. tiny raindrops .'.'.",
+        "url": "https:\/\/twitter.com\/tiny_raindrops_",
+        "description": "Smol, cute ASCII & emoji bot. \ud83c\udf27\ufe0f",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "2 Emojicons in a bar",
+        "url": "https:\/\/twitter.com\/twoemojicons",
+        "description": "What happens when 2 emojicons met in a bar?",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "5hmCpapers",
         "url": "https:\/\/twitter.com\/5hmC_papers",
         "description": "Papers related to the covalent DNA modification 5-hydroxymethylcytosine, from pubmed and bioR\u03c7iv",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "@5adaybot ",
+        "url": "https:\/\/twitter.com\/5adaybot",
+        "description": "it tweets five random fruit or vegetable emoji to encourage you to take a break and have a healthy snack.",
+        "status": "suspended",
+        "tags": "Emoji"
     },
     {
         "title": "@BackyardBirdbot",
@@ -42,18 +63,18 @@
         "tags": "Poetry"
     },
     {
-        "title": "@EmojiSnakeGame",
-        "url": "https:\/\/twitter.com\/EmojiSnakeGame",
-        "description": "The Snake game with emoji and Twitter polls.",
-        "status": "",
-        "tags": "Game, Interactive"
+        "title": "@Diaeresis_OTPs",
+        "url": "https:\/\/twitter.com\/Diaeresis_OTPs",
+        "description": "it tweets characters with diacritics and various kinds of hearts between them.",
+        "status": "suspended",
+        "tags": "Emoji"
     },
     {
-        "title": "@EmojiTetra",
-        "url": "https:\/\/twitter.com\/EmojiTetra",
-        "description": "Falling shapes made from emoji, moved and rotated by Twitter poll results.",
+        "title": "@EmojiStorms",
+        "url": "https:\/\/twitter.com\/EmojiStorms",
+        "description": "Tweeting a new stormy scene every 3 hours!",
         "status": "",
-        "tags": "Game, Interactive"
+        "tags": "Emoji"
     },
     {
         "title": "@ExpressionismBot",
@@ -88,7 +109,7 @@
         "url": "https:\/\/twitter.com\/Hangman_Bot",
         "description": "Play a game of hangman.",
         "status": "offline",
-        "tags": "Game, Interactive"
+        "tags": "Game, Interactive, Emoji"
     },
     {
         "title": "@HeadlineGifs",
@@ -203,18 +224,18 @@
         "tags": "Poetry"
     },
     {
-        "title": "@Ro_Sham_Bot",
-        "url": "https:\/\/twitter.com\/Ro_Sham_Bot",
-        "description": "Want to battle? \u270a\u270b\u270c",
-        "status": "offline",
-        "tags": "Game, Interactive"
-    },
-    {
         "title": "@RollDiceBot",
         "url": "https:\/\/twitter.com\/RollDiceBot",
         "description": "Dice bot loves to play dice games, ask it for a roll!",
         "status": "",
         "tags": "Game, Interactive"
+    },
+    {
+        "title": "@SymbolsBot",
+        "url": "https:\/\/twitter.com\/SymbolsBot",
+        "description": "it tweets symbols in a pattern.",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "@TheGIFingBot",
@@ -287,6 +308,13 @@
         "tags": "IOT"
     },
     {
+        "title": "@_daysuntilxmas",
+        "url": "https:\/\/twitter.com\/_daysuntilxmas",
+        "description": "it tweets out ASCII art (using emojis) displaying the number of days until Christmas.",
+        "status": "suspended",
+        "tags": "Emoji"
+    },
+    {
         "title": "@_ku_bot",
         "url": "https:\/\/twitter.com\/_ku_bot",
         "description": "Haiku generator.",
@@ -347,7 +375,7 @@
         "url": "https:\/\/twitter.com\/boggle_bot",
         "description": "Let's play Boggle!",
         "status": "suspended",
-        "tags": "Game, Interactive"
+        "tags": "Game, Interactive, Emoji"
     },
     {
         "title": "@botinthewoods",
@@ -455,18 +483,25 @@
         "tags": "Poetry"
     },
     {
-        "title": "@emojiUSA",
-        "url": "https:\/\/twitter.com\/emojiUSA",
-        "description": "A patriot bot.",
-        "status": "",
-        "tags": "Poetry"
-    },
-    {
         "title": "@emoji_haiku",
         "url": "https:\/\/twitter.com\/emoji_haiku",
         "description": "Emoji + Haiku",
         "status": "cancelled",
         "tags": "Poetry"
+    },
+    {
+        "title": "@emoji_jury",
+        "url": "https:\/\/twitter.com\/emoji_jury",
+        "description": "",
+        "status": "suspended",
+        "tags": "Emoji"
+    },
+    {
+        "title": "@face2pumpkin",
+        "url": "https:\/\/twitter.com\/face2pumpkin",
+        "description": "@face2pumpkin is a Twitter bot created by Derek Ahmedzai that replaces faces in images that are tweeted at it with pumpkin emoji using Cloudinary\u2019s image API.",
+        "status": "suspended",
+        "tags": "Emoji"
     },
     {
         "title": "@fearwantbot",
@@ -476,11 +511,11 @@
         "tags": "Poetry"
     },
     {
-        "title": "@forestgen",
-        "url": "https:\/\/twitter.com\/forestgen",
-        "description": "Tweet me to get your own unique peaceful forest. Stay calm.",
-        "status": "offline",
-        "tags": "Poetry"
+        "title": "@folderisempty",
+        "url": "https:\/\/twitter.com\/folderisempty",
+        "description": "it generates empty folders memes.",
+        "status": "suspended",
+        "tags": "Emoji"
     },
     {
         "title": "@gifmath",
@@ -564,7 +599,14 @@
         "url": "https:\/\/twitter.com\/letsplaysnake",
         "description": "Up, down, left, right!",
         "status": "offline",
-        "tags": "Game, Interactive"
+        "tags": "Game, Interactive, Emoji"
+    },
+    {
+        "title": "@lettergamebot",
+        "url": "https:\/\/twitter.com\/lettergamebot",
+        "description": "",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "@liketocontinue",
@@ -756,6 +798,13 @@
         "tags": "Poetry"
     },
     {
+        "title": "@tiny_mssn_ctrl",
+        "url": "https:\/\/twitter.com\/tiny_mssn_ctrl",
+        "description": "",
+        "status": "suspended",
+        "tags": "Emoji"
+    },
+    {
         "title": "@tinycolorpoems",
         "url": "https:\/\/twitter.com\/tinycolorpoems",
         "description": "A bot that makes tiny color poems.",
@@ -840,11 +889,25 @@
         "tags": "Gif"
     },
     {
+        "title": "A Lovely Cloud",
+        "url": "https:\/\/twitter.com\/a_lovely_cloud",
+        "description": "I'm a cloud IRL",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
         "title": "A Softer Space",
         "url": "https:\/\/twitter.com\/a_softer",
         "description": "An experimental webcomic and a bot inspired by A Softer World and deep space.",
         "status": "",
         "tags": "Poetry"
+    },
+    {
+        "title": "A Tiny Zoo",
+        "url": "https:\/\/twitter.com\/atinyzoo",
+        "description": "I'm a bot who tweets very small zoos! My creators are @sadflavored and @pichealoco! Our animals are trained to not eat their other animal friends!",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "AM Epigenetics Pubs",
@@ -859,6 +922,13 @@
         "description": "I'm a TwitterBot set up to tweet selected papers from PubMed about artificial nutrition and hydration (ANH).",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "A_Head_With_Wings",
+        "url": "https:\/\/twitter.com\/headsandwings",
+        "description": "I got a head with wings. #botALLY",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Abandonedbot",
@@ -903,6 +973,13 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Awful Emoji",
+        "url": "https:\/\/twitter.com\/AwfulEmoji",
+        "description": "Celebrating the weird faces and messy emotions of all the world.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "BactSecretionPapers",
         "url": "https:\/\/twitter.com\/SecretionPapers",
         "description": "Scientific watch on bacterial secretion systems",
@@ -934,8 +1011,15 @@
         "title": "Bill Gates' Jets",
         "url": "https:\/\/twitter.com\/GatesJets",
         "description": "Bill Gates Jet tracking by @JxckSweeney N194WM and N887WM for now may be adding the rest including helicopter. @ADSBExchange Data",
-        "status": "",
+        "status": "suspended",
         "tags": "Flights"
+    },
+    {
+        "title": "Bill W. Emojington",
+        "url": "https:\/\/twitter.com\/emojipotus",
+        "description": "inspirational quotes from U.S. presidents, updated for the new age.",
+        "status": "offline",
+        "tags": "Emoji"
     },
     {
         "title": "BioCodePapers",
@@ -1001,11 +1085,32 @@
         "tags": "Useful"
     },
     {
+        "title": "Bot Loves You",
+        "url": "https:\/\/twitter.com\/botlovesyou",
+        "description": "I tweet hearts a few times daily. Mention me and I'll send you love.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Bot_Ideas",
+        "url": "https:\/\/twitter.com\/bot_ideas",
+        "description": "art bot experiments by @tinyruin \u2022 magical stories with cute animals \ud83d\udc3btiny emoji worlds \ud83c\udfd5\ufe0f and other things \/\/ all replies are by the bot too",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "BotfonsNeedles",
         "url": "https:\/\/twitter.com\/BotfonsNeedles",
         "description": "I am an implementation of Buffon's needle problem. I estimate \u03c0 by dropping needles. ",
         "status": "",
         "tags": "Images"
+    },
+    {
+        "title": "Botilius Syrus",
+        "url": "https:\/\/twitter.com\/botilius_syrus",
+        "description": "Big into sententiae. Ave Caesar! I'll tweet one aphorism per day for 909 days.",
+        "status": "offline",
+        "tags": "Emoji"
     },
     {
         "title": "Brain Devpt Papers",
@@ -1081,7 +1186,7 @@
         "title": "Celebrity Jets",
         "url": "https:\/\/twitter.com\/CelebJets",
         "description": "Tracking Celebrities Jets. Coded and run by @JxckSweeney using @ADSBExchange data",
-        "status": "",
+        "status": "suspended",
         "tags": "Flights"
     },
     {
@@ -1118,6 +1223,13 @@
         "description": "Tightly zoomed 45-degree views of (sub)urban areas around the world, every 12 hours or so. Imagery courtesy of Google Maps.",
         "status": "",
         "tags": "Images"
+    },
+    {
+        "title": "ClassroomBot",
+        "url": "https:\/\/twitter.com\/BotClassroom",
+        "description": "",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "ColSci",
@@ -1221,6 +1333,13 @@
         "title": "Donald Trump Retruth, Tweets from Truth Social \ud83e\udd16",
         "url": "https:\/\/twitter.com\/TrumpRetruth",
         "description": "For supporters\u2764\ufe0f and haters\ud83d\ude20, read Trump everywhere, updated every hour \ud83e\udd16 from TruthSocial, all the posts are original, written or reposted from Trump",
+        "status": "suspended",
+        "tags": "Funny"
+    },
+    {
+        "title": "Donald Trump Retruth, Tweets from Truth Social \ud83e\udd16",
+        "url": "https:\/\/twitter.com\/MagaWorldTruth",
+        "description": "\ud83c\uddfa\ud83c\uddf8 Read Trump everywhere, updated every hour \ud83e\udd16 from TruthSocial, all the posts are original, written or reposted from Trump",
         "status": "",
         "tags": "Funny"
     },
@@ -1230,6 +1349,20 @@
         "description": "Animations of random double pendulums.",
         "status": "",
         "tags": "Gif"
+    },
+    {
+        "title": "Dungeon Ideas",
+        "url": "https:\/\/twitter.com\/dungeonideas",
+        "description": "@dungeonideas",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "EMOJI POLLS!",
+        "url": "https:\/\/twitter.com\/emoji__polls",
+        "description": "Choose your favorite emoji, every 6 hours.",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "EMR Research papers",
@@ -1270,8 +1403,134 @@
         "title": "ElonJet",
         "url": "https:\/\/twitter.com\/elonjet",
         "description": "Tracking Elon Musk's Private Jet(N628TS) with a bot using public ADS-B data @ADSBExchange, contact @JxckSweeney for inquiries http:\/\/ElonJet.net",
-        "status": "",
+        "status": "suspended",
         "tags": "Flights"
+    },
+    {
+        "title": "Emoji + Face Mashup Bot",
+        "url": "https:\/\/twitter.com\/EmojiMashupFace",
+        "description": "Tries to create new emojis from random Face Emoji + Expression Emoji.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Aquarium",
+        "url": "https:\/\/twitter.com\/EmojiAquarium",
+        "description": "Every few hours I show you a tiny aquarium with interesting fish. Please do not tap the glass. @EmojiAquarium@botsin.space",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Armageddon (Deutsch Version)",
+        "url": "https:\/\/twitter.com\/SurrogaDesigns",
+        "description": "Ein 'Ende Der Welt' Spiele mit Emojis 7 Tag Vorhersage. Follow die konto die spiele zu teilnehmen!",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Atlas",
+        "url": "https:\/\/twitter.com\/emojiatlas",
+        "description": "The cute little brother of @unchartedatlas",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Blend",
+        "url": "https:\/\/twitter.com\/EmojiBlend",
+        "description": "I create new emoji based on the Twitter designs.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Forecast",
+        "url": "https:\/\/twitter.com\/emojiforecast",
+        "description": "The cutest (but not most accurate) weather forecast. Follow to receive tomorrow's weather each night, based on your profile location.",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Gender Reveal Bot",
+        "url": "https:\/\/twitter.com\/EmojiGenderBot",
+        "description": "Tweeting out new emoji gender reveals twice daily!",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Mashup Bot",
+        "url": "https:\/\/twitter.com\/EmojiMashupBot",
+        "description": "Tries to create new emojis out of 2 random emojis.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Meadow",
+        "url": "https:\/\/twitter.com\/EmojiMeadow",
+        "description": "Every few hours I show you a tiny meadow full of grass and flowers. @EmojiMeadow@botsin.space",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Princesses",
+        "url": "https:\/\/twitter.com\/EmojiPrincesses",
+        "description": "I am a bot created by @JoeSondow, inspired by @EverySheriff. Every few hours we are visited by one of the princesses.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Snake Game",
+        "url": "https:\/\/twitter.com\/EmojiSnakeGame",
+        "description": "The Snake game with emoji and Twitter polls.",
+        "status": "",
+        "tags": "Game, Interactive, Emoji"
+    },
+    {
+        "title": "Emoji Tetra",
+        "url": "https:\/\/twitter.com\/EmojiTetra",
+        "description": "Falling shapes made from emoji, moved and rotated by Twitter poll results.",
+        "status": "",
+        "tags": "Game, Interactive, Emoji"
+    },
+    {
+        "title": "Emoji Weather California",
+        "url": "https:\/\/twitter.com\/EmojiWeatherCA",
+        "description": "Californian emoji weather forecast every 6 hours \ud83c\udf1e",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji Weather USA",
+        "url": "https:\/\/twitter.com\/EmojiWeatherUSA",
+        "description": "Emoji weather forecast every 6 hours \ud83c\udf1e",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji-DNA",
+        "url": "https:\/\/twitter.com\/emoji_dna",
+        "description": "Tweets out an emoji dna strand every 30 minutes.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emoji-Spangled Bot",
+        "url": "https:\/\/twitter.com\/emojiUSA",
+        "description": "a patriot bot",
+        "status": "offline",
+        "tags": "Emoji, Poetry"
+    },
+    {
+        "title": "EmojiPainter",
+        "url": "https:\/\/twitter.com\/EmojiPainter",
+        "description": "AI generated emotions.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Emojimuseet",
+        "url": "https:\/\/twitter.com\/Emojimuseet",
+        "description": "Send me an emoji and get an object, photo or artwork from a \ud83c\uddf8\ud83c\uddea museum in return.",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Endless Jeopardy",
@@ -1302,6 +1561,20 @@
         "tags": "Images"
     },
     {
+        "title": "Every Herd Bot",
+        "url": "https:\/\/twitter.com\/everyherd_bot",
+        "description": "I take my herds for a walk every hour. @MikeyHay is my dad.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Every Sheriff Bot",
+        "url": "https:\/\/twitter.com\/EverySheriff",
+        "description": "Algorithmic Sheriff Memes For Fun and Profit(?)",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "EvoBehGenPapers",
         "url": "https:\/\/twitter.com\/EvoBehGe_papers",
         "description": "Twitterbot of Evolutionary Behavioural Genetics papers in #PubMed. Curated by @darrenjparker",
@@ -1323,11 +1596,32 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Flags Mashup Bot",
+        "url": "https:\/\/twitter.com\/FlagsMashupBot",
+        "description": "Automated bot that creates random flags from 2 existing flags picked randomly.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Flags of Flags",
+        "url": "https:\/\/twitter.com\/flags_of_flags",
+        "description": "Four flags per day",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "Fruit Worms",
         "url": "https:\/\/twitter.com\/fruitWormPapers",
         "description": "Continuous, auto-updated feed of #Celegans (and Caenorhabditeae) wherever they may be found -- PubMed, bioRxiv, and @PeerJ PrePrints. Managed by @microbeMinded.",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "Fruity Slot Bot \ud83c\udfb0\ud83e\udd16",
+        "url": "https:\/\/twitter.com\/lonesome_arcade",
+        "description": "Doomed to play this machine forever!",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Fusobacterium Papers",
@@ -1365,11 +1659,25 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Ghost Bot",
+        "url": "https:\/\/twitter.com\/GhostOfBotPast",
+        "description": "I\u2019m the ghost of bot past. I will post twice each day.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "Gif Earth",
         "url": "https:\/\/twitter.com\/GifEarth",
         "description": "GIFs of the Earth.",
         "status": "",
         "tags": "Gif"
+    },
+    {
+        "title": "Hashflags",
+        "url": "https:\/\/twitter.com\/HashflagArchive",
+        "description": "#\ufe0f\u20e3 Bringing you the latest Hashflags and Twitter emoji. \ud83e\udd16 A bot created by @Jamie_Magee. \u2139\ufe0f Not affiliated with Twitter in any way.",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Helminth papers",
@@ -1386,11 +1694,25 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Hi\u2755\ud83e\udd16",
+        "url": "https:\/\/twitter.com\/BotThatSaysHi",
+        "description": "Hi ! Everydays.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "Hot Spot Prediction",
         "url": "https:\/\/twitter.com\/hotspot_papers",
         "description": "Daily RSS Feed for Protein Hot Spot Prediction papers. Maintained by @selinkaragulle",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "Hourly Energy Bot",
+        "url": "https:\/\/twitter.com\/BotHourly",
+        "description": "I'm a bot. Every hour I pick a random Balancing Authority on the U.S. Power Grid and tweet its energy sources for the past 60 minutes. Data Source: U.S. EIA",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Hypoxia Adaptation",
@@ -1405,6 +1727,13 @@
         "description": "Posting cool research papers from http:\/\/arXiv.org every 2h on Physics, Mathematics, Computer Science, Biology, and Statistics. (Bot by @alexjc.)",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "I \u2764\ufe0f This City",
+        "url": "https:\/\/twitter.com\/ilovethisbot",
+        "description": "Destroying Milton Glaser's legacy, one microblog at a time.",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "IDP Papers",
@@ -1435,6 +1764,20 @@
         "tags": "Cams"
     },
     {
+        "title": "Invaders",
+        "url": "https:\/\/twitter.com\/dailyinvaders",
+        "description": "InvaderBot",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
+        "title": "It's Dangerous To Go Alone",
+        "url": "https:\/\/twitter.com\/goTakeThis",
+        "description": "",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "James A. Letts",
         "url": "https:\/\/twitter.com\/LettsScience",
         "description": "Assistant Professor of Molecular and Cellular Biology, UC Davis. Membrane protein biochemistry, biophysics and structural biology #cryoEM. Bioenergetics.",
@@ -1447,6 +1790,13 @@
         "description": "I'm a Bot. I post interesting papers. Maintained by @happy_khan",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "Junior Archaeologist",
+        "url": "https:\/\/twitter.com\/dinosaur_finder",
+        "description": "I'll find the dinosaurs, so you don't have to!",
+        "status": "offline",
+        "tags": "Emoji"
     },
     {
         "title": "JustDiedBot",
@@ -1466,8 +1816,15 @@
         "title": "Kimbal Musk's Jet",
         "url": "https:\/\/twitter.com\/KimbalJet",
         "description": "Tracking Kimbal Musk's Jet (N813FR) previously (N278PC) by @JxckSweeney @ADSBExchange Data",
-        "status": "",
+        "status": "suspended",
         "tags": "Flights"
+    },
+    {
+        "title": "Least Used Emoji Bot",
+        "url": "https:\/\/twitter.com\/leastUsedEmoji",
+        "description": "Dedicated to informing the masses on which emoji is the least used.",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Lego Bot",
@@ -1533,6 +1890,13 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Magic Emoji Roundabout",
+        "url": "https:\/\/twitter.com\/EmojiRoundabout",
+        "description": "An efficient and safe junction, loved by all that drive across her",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "Make it a quote",
         "url": "https:\/\/twitter.com\/MakeItAQuote",
         "description": "Quote or reply to a tweet and mention me to generate a graphic. Mention @RemoveMyQuote if you want a tweet removed.",
@@ -1568,6 +1932,20 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Moai Bot",
+        "url": "https:\/\/twitter.com\/MoaiEmojiBot",
+        "description": "\ud83d\uddff @TRASEVOL_DOG is my maker \ud83d\uddff",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Mood Bot",
+        "url": "https:\/\/twitter.com\/EmojiMoodBot",
+        "description": "\ud83d\ude00\ud83d\ude0d How do you fell ? #emoji #mood #bot #smiley #face",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "NDMPapers",
         "url": "https:\/\/twitter.com\/NDM_Papers",
         "description": "RSS feed from PubMed, that shows the most recent scientific papers from the Nuffield Department of Medicine, University of Oxford. Refreshes daily.",
@@ -1594,6 +1972,13 @@
         "description": "Twitterbot of nonribosomal or nrps or non-ribosomal in #Pubmed created and curated by jem.stach@ncl.ac.uk",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "NYPL Emoji Bot",
+        "url": "https:\/\/twitter.com\/nyplemoji",
+        "description": "\u2728Send @NYPLEmoji an emoji, receive an image \u2709\ufe0f from @NYPL collections. \u23f0Tweets once a day.",
+        "status": "offline",
+        "tags": "Emoji"
     },
     {
         "title": "Nature Articles",
@@ -1636,6 +2021,20 @@
         "description": "Images of the night sky, painted by @jstsgs. Now in twice the resolution!",
         "status": "",
         "tags": "Images"
+    },
+    {
+        "title": "Nite Alps",
+        "url": "https:\/\/twitter.com\/NiteAlps",
+        "description": "[What sort of people live in this place?]",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "NoEmojiForThis",
+        "url": "https:\/\/twitter.com\/NoEmojiForThis",
+        "description": "There's no emoji for biography. Bot obsolete everytime a new emoji is added.",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Nonogram Bot",
@@ -1834,6 +2233,13 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Road Trip Bot",
+        "url": "https:\/\/twitter.com\/RoadTripBot_",
+        "description": "A new road trip twice a day",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "RobotWalks",
         "url": "https:\/\/twitter.com\/RobotWalks",
         "description": "Bot by @PeterKagey. Based on Project Euler problem #208. https:\/\/projecteuler.net\/problem=208",
@@ -1865,8 +2271,15 @@
         "title": "Russian VIP & Putin Jets",
         "url": "https:\/\/twitter.com\/PutinJet",
         "description": "Tracking the Russian State VIP jets and any Putin may use (he\u2019 not necessarily on) @ADSBExchange data, by @JxckSweeney",
-        "status": "",
+        "status": "suspended",
         "tags": "Flights"
+    },
+    {
+        "title": "S P R I N G",
+        "url": "https:\/\/twitter.com\/fallingleafbot",
+        "description": "small emoji bot posting on the hour by @hologramvin.",
+        "status": "offline",
+        "tags": "Emoji"
     },
     {
         "title": "SWI\/SNF",
@@ -1904,6 +2317,13 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Smooth Unicode",
+        "url": "https:\/\/twitter.com\/SmoothUnicode",
+        "description": "Getting you through your workday with the softest glyphs from the smoothest scripts.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "Snake on Twitt\u0435r",
         "url": "https:\/\/twitter.com\/FeedSnakeBot",
         "description": "Play snake with others, right on Twitter!",
@@ -1916,6 +2336,13 @@
         "description": "I tweet new SPACE OPERATION temporary flight restrictions posted by the FAA. My manager of human affairs is Ben Hallert (@Chairboy)",
         "status": "",
         "tags": "Useful"
+    },
+    {
+        "title": "Space scenes Bot",
+        "url": "https:\/\/twitter.com\/cute_space_bot",
+        "description": "\ud83e\udd16 hi, I am a bot by @dharmadeveloper \ud83d\udc4b I generate cute galactic scenes every few hours, sometimes with a wholesome message.",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Sponge Papers",
@@ -1988,11 +2415,39 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "TWEET ME 4 MOJI",
+        "url": "https:\/\/twitter.com\/TweetMe4Moji",
+        "description": "Tweet me your pics and get better ones with \ud83d\udd25 emoji.",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Tarot Emoji Bot",
+        "url": "https:\/\/twitter.com\/tarojibot",
+        "description": "Hi! I'm a bot who does tarot readings with emojis.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "The Trump Watcher",
+        "url": "https:\/\/twitter.com\/thetrumpwatcher",
+        "description": "How's Trump feeling?",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
         "title": "The Trumpster Fire",
         "url": "https:\/\/twitter.com\/USdumpsterfire",
         "description": "Official statements from the Trumpster Fire in Chief of the United States of America.",
         "status": "offline",
         "tags": "Gif"
+    },
+    {
+        "title": "The \u2764\ufe0f Love bot !",
+        "url": "https:\/\/twitter.com\/EmojiLoveBot",
+        "description": "An emoji  \u2764\ufe0f bot. #love #heart #coeur #amour \u2764\ufe0f Have some love in your timeline ! \u2764\ufe0f #valentinesday #saintvalentin @Emojiforest @enbanf",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Tic-Tac-Toe Bot",
@@ -2007,6 +2462,55 @@
         "description": "Know the time left until Christmas.",
         "status": "",
         "tags": "Gif"
+    },
+    {
+        "title": "Tiny Dungeon Bot",
+        "url": "https:\/\/twitter.com\/TinyDungeons",
+        "description": "I make tiny dungeons meant to look like something out of Nethack",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Tiny Forests",
+        "url": "https:\/\/twitter.com\/tiny_forests",
+        "description": "@tiny_forests tweets tiny emoji forests with little animals.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Tiny Gallery",
+        "url": "https:\/\/twitter.com\/thetinygallery",
+        "description": "Tiny exhibits from the tiny gallery.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Tiny Homes",
+        "url": "https:\/\/twitter.com\/tinylittlehomes",
+        "description": "",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Tiny Petting Zoo",
+        "url": "https:\/\/twitter.com\/TinyPettingZoo",
+        "description": "Every few hours I show you a cute petting zoo. Please pet the animals and feed them emoji food. @TinyPettingZoo@botsin.space",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Tiny Pride Parade",
+        "url": "https:\/\/twitter.com\/tinyprideparade",
+        "description": "Tiny LGBTQ+ parades celebrating tiny pride!",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Tiny Protests",
+        "url": "https:\/\/twitter.com\/TinyProtests",
+        "description": "\ud83c\uddfa\ud83c\uddf8 WE MARCH FOR ALL WHO ARE OPPRESSED.",
+        "status": "offline",
+        "tags": "Emoji"
     },
     {
         "title": "Tram",
@@ -2037,6 +2541,13 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Turtles All The Way",
+        "url": "https:\/\/twitter.com\/turtles_down",
+        "description": "A bot by @air_hadoken that attempts to create the universe. #really #notreally #botALLY",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "Tweet the Tube",
         "url": "https:\/\/twitter.com\/tweetthetube",
         "description": "Live updates whenever a tube service changes status, pulled straight from the Transport for London website and checked every 5 minutes. Created by @jas_m",
@@ -2049,6 +2560,20 @@
         "description": "Let's play a game, on Twitter!",
         "status": "",
         "tags": "Game, Interactive"
+    },
+    {
+        "title": "TweteoSwiss (@meteo@tooting.ch)",
+        "url": "https:\/\/twitter.com\/TweteoSwiss",
+        "description": "Emoji weather, three times per day, by @rastrau. \u00abTell me this is a bot updating hourly.\u00bb \u2013 @yrochat, upon seeing the 1st map draft. Sibling of @tweteoswissplus.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "Unicode tweets",
+        "url": "https:\/\/twitter.com\/UnicodeTweet",
+        "description": "Random Unicode character tweets. Emojis on Sunday! Powered by http:\/\/unicode-table.com",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "University of Warwick Research Archive Portal",
@@ -2093,11 +2618,25 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Vroom Vroomington",
+        "url": "https:\/\/twitter.com\/vroom_vroom_bot",
+        "description": "Tweets majestic imagery of traffic.",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
         "title": "Weird Spy Satellites",
         "url": "https:\/\/twitter.com\/WeirdSatellite",
         "description": "Weird Spy Satellite Imagery. A speculative surveillance bot by Mark Sample.",
         "status": "",
         "tags": "Images"
+    },
+    {
+        "title": "Wheels on the Bot",
+        "url": "https:\/\/twitter.com\/wheelsonthebot",
+        "description": "@literature_geek's first bot",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "Wnt publications",
@@ -2107,6 +2646,13 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Writer's Block Bot",
+        "url": "https:\/\/twitter.com\/WritersBlockBot",
+        "description": "I tweet randomly-generated, emoji-based writing prompts, to help get those creative juices flowing!",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "Zeolite_papers",
         "url": "https:\/\/twitter.com\/Zeolite_papers",
         "description": "This is a bot feeding you recently uploaded preprints and published papers on zeolites. Maintained by @slaterben1.",
@@ -2114,11 +2660,32 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "Zoo Trains",
+        "url": "https:\/\/twitter.com\/thezootrain",
+        "description": "Your number one source for random animal trains.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "Zucc Jet",
         "url": "https:\/\/twitter.com\/ZuccJet",
         "description": "Bot Tracking Mark Zuckerberg\u2019s Jet using @ADSBExchange data by @JxckSweeney",
-        "status": "",
+        "status": "suspended",
         "tags": "Flights"
+    },
+    {
+        "title": "[face] to [face]",
+        "url": "https:\/\/twitter.com\/emojitoemoji",
+        "description": "",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
+        "title": "_EMO_JI",
+        "url": "https:\/\/twitter.com\/_emo_ji",
+        "description": "3\ufe0f\u20e30\ufe0f\u20e30\ufe0f\u20e30\ufe0f\u20e3\u2122 tweet me pix",
+        "status": "offline",
+        "tags": "Emoji"
     },
     {
         "title": "aDNA_papers",
@@ -2226,6 +2793,13 @@
         "tags": "Gif"
     },
     {
+        "title": "bon appetiny",
+        "url": "https:\/\/twitter.com\/bon_appetiny",
+        "description": "Tiny generated emoji dinners for two.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "bxv_biochem",
         "url": "https:\/\/twitter.com\/bxv_biochem",
         "description": "Alert for pre-print manuscripts about Biochemistry, sources biorxiv #openaccess #biochemistry #biochem by @wpgilks",
@@ -2296,11 +2870,60 @@
         "tags": "Images"
     },
     {
+        "title": "digital henge",
+        "url": "https:\/\/twitter.com\/digital_henge",
+        "description": "",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
         "title": "eQTLpapers",
         "url": "https:\/\/twitter.com\/eQTL_papers",
         "description": "TwitterBot for eQTL papers from PubMed, arXiv, bioRxiv, and PeerJ PrePrints. Maintained by @sarahfbrooks",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "eff_dee_emmu",
+        "url": "https:\/\/twitter.com\/effdeeemmu",
+        "description": "Each line, vertical and horizontal, must have a mix of three O and three X, but you can never have three of the same consecutive character!",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "emoji astronomy",
+        "url": "https:\/\/twitter.com\/EmojiAstro",
+        "description": "Emoji constellations for a cosmic timeline \ud83d\udef0 I send signals to earth every 7 hours",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "emoji pizzas",
+        "url": "https:\/\/twitter.com\/emoji_pizzas",
+        "description": "",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "emoji tracks",
+        "url": "https:\/\/twitter.com\/emojitracks",
+        "description": "Something came through here recently... (A bot by @oopsohno made using http:\/\/cheapbotsdonequick.com)",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "emojiMountain",
+        "url": "https:\/\/twitter.com\/emojiMountain",
+        "description": "a mt. named for a twitter user",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "emojipicbot",
+        "url": "https:\/\/twitter.com\/emojipicbot",
+        "description": "Tag me with an image to let me convert it into emojis!",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "epigenetics_papers",
@@ -2352,6 +2975,13 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "functionalemoji",
+        "url": "https:\/\/twitter.com\/functionalemoji",
+        "description": "artisanal bot by @Objelisks",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "glycopreprint",
         "url": "https:\/\/twitter.com\/glycopreprint",
         "description": "Glycosylation preprints from bioRxiv and chemRxiv. The scraped DOI links from new articles can take a bit of time to be activated.",
@@ -2371,6 +3001,13 @@
         "description": "Literature bot searching arXiv, biorXiv, PeerJ & PubMed for supercoiling papers. Maintained by @red_gravel.",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "i love your gender",
+        "url": "https:\/\/twitter.com\/genderposibot",
+        "description": "just a bot reminding you how great both you and your gender are! i love your gender, and mine!",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "infinite deserts_\u03c8__",
@@ -2413,6 +3050,13 @@
         "description": "Twitterbot for microRNA papers from PubMed, arXiv, bioRxiv, and PeerJ. Papers should trickle in (2-3\/hr), not flood.",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "peaceful forest bot",
+        "url": "https:\/\/twitter.com\/forestgen",
+        "description": "Tweet me to get your own unique peaceful forest. Stay calm.",
+        "status": "offline",
+        "tags": "Emoji, Poetry"
     },
     {
         "title": "phylogeopapers",
@@ -2464,6 +3108,13 @@
         "tags": "Scientific Literature"
     },
     {
+        "title": "rockpaperscissor",
+        "url": "https:\/\/twitter.com\/Ro_Sham_Bot",
+        "description": "Want to battle? \u270a\u270b\u270c",
+        "status": "offline",
+        "tags": "Game, Interactive, Emoji"
+    },
+    {
         "title": "scientificpapers",
         "url": "https:\/\/twitter.com\/scientificpaper",
         "description": "",
@@ -2485,11 +3136,102 @@
         "tags": "Images"
     },
     {
+        "title": "sunrisebot",
+        "url": "https:\/\/twitter.com\/sunrisebot",
+        "description": "the sun is always rising, somewhere.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "synbiopapers",
         "url": "https:\/\/twitter.com\/synbio_papers",
         "description": "TwitterBot collecting #synbio papers",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "the airport bot",
+        "url": "https:\/\/twitter.com\/theairplane_bot",
+        "description": "I just generate airports \u2708\ufe0f",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny astronaut",
+        "url": "https:\/\/twitter.com\/tiny_astro_naut",
+        "description": "tiny adventures of tiny astronauts injected into @tiny_star_field's tiny star fields. by @elibrody",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny bus stop",
+        "url": "https:\/\/twitter.com\/tiny_bus_stop",
+        "description": "Tiny people waiting for the tiny bus at the tiny bus stop.",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny cities",
+        "url": "https:\/\/twitter.com\/tiny_cityscapes",
+        "description": "I post tiny emoji cities a few times a day.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny cottages",
+        "url": "https:\/\/twitter.com\/tiny_cottages",
+        "description": "a cottagecore twitterbot that posts a few times a day",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny gardens",
+        "url": "https:\/\/twitter.com\/tiny_gardens",
+        "description": "Tiny gardens, a few times a day.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny ladybug",
+        "url": "https:\/\/twitter.com\/thetinyladybug",
+        "description": "just a ladybug travels around the world - bot by @lizeyao and @Shrimpapa1",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny reefs",
+        "url": "https:\/\/twitter.com\/tiny_reefs",
+        "description": "a aquatic twitterbot that posts a few times a day",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny seascape",
+        "url": "https:\/\/twitter.com\/tiny_seascape",
+        "description": "a little splash of the big blue, every couple of hours \ud83c\udf0a @LittleBlueLette",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny street",
+        "url": "https:\/\/twitter.com\/tiny_street",
+        "description": "i tweet tiny street scenes. bot-in-progress by @jonnysun. based on the amazing work of @deer_ful!",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny treelines",
+        "url": "https:\/\/twitter.com\/tiny_treelines",
+        "description": "a stargazing twitterbot that posts a few times a day",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "tiny_forest",
+        "url": "https:\/\/twitter.com\/tiny__forest",
+        "description": "A tiny forest beneath a @tiny_star_field",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "tiny_gravity",
@@ -2499,11 +3241,25 @@
         "tags": "Gif"
     },
     {
+        "title": "tinyroad",
+        "url": "https:\/\/twitter.com\/Littlelandscap2",
+        "description": "Tiny landscapes, tiny roads.",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "topbiopapers",
         "url": "https:\/\/twitter.com\/topbiopapers",
         "description": "Streaming biological articles of top relevance in the fields of cell- and molecular biology and genetics. Caution: addictive!",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "trains botting",
+        "url": "https:\/\/twitter.com\/choochoobot\/",
+        "description": "A mighty locomotive sweeps through rugged landscapes.",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "trendingpalette",
@@ -2518,6 +3274,13 @@
         "description": "",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "unicode_garden",
+        "url": "https:\/\/twitter.com\/unicode_garden",
+        "description": "gardens of characters",
+        "status": "",
+        "tags": "Emoji"
     },
     {
         "title": "view_from_EH10",
@@ -2562,10 +3325,59 @@
         "tags": "Game, Interactive"
     },
     {
+        "title": "\u2113\u213d\u212d\u25b5\u2115\u2629\u2644\u211c\u25cc\u03b2\u25cd\u2020",
+        "url": "https:\/\/twitter.com\/lycanthrobot",
+        "description": "something weird is going on in the woods \u2728 a tiny moon phase and werewolf bot",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "\u2661 please take a break \u2661",
+        "url": "https:\/\/twitter.com\/pls_take_breaks",
+        "description": "reminding you to be kind to yourself & take a break every 3 hour",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
+        "title": "\u2744winter wonderland\u2744",
+        "url": "https:\/\/twitter.com\/winter_scapes",
+        "description": "little winter wonderlands 4x per day \/\/ inspired by @tiny_star_field and living in LA \/\/ by @_hartsick",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a",
+        "url": "https:\/\/twitter.com\/tiny_seas",
+        "description": "",
+        "status": "offline",
+        "tags": "Emoji"
+    },
+    {
+        "title": "\ud83c\udf32 A forest \ud83c\udf33",
+        "url": "https:\/\/twitter.com\/Emojiforest",
+        "description": "A random forest bot in the digital stream. \ud83c\udf33\ud83c\udfe0\ud83c\udf32",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
+        "title": "\ud83d\udc4f Clappiness Patrol \ud83d\udc4f",
+        "url": "https:\/\/twitter.com\/ClappinessBot",
+        "description": "\ud83d\udc4fClapping\ud83d\udc4fon\ud83d\udc4fTwitter\ud83d\udc4fdoes\ud83d\udc4fsomething\ud83d\udc4fimportant!\ud83d\udc4f",
+        "status": "",
+        "tags": "Emoji"
+    },
+    {
         "title": "\ud83d\udd2c R-loop",
         "url": "https:\/\/twitter.com\/R_loop_papers",
         "description": "Hi, I'm a bot. I crawl Pubmed and BioRxiv for new papers on R-loops. Follow me if you're a DNA:RNA hybrid kinda person.",
         "status": "",
         "tags": "Scientific Literature"
+    },
+    {
+        "title": "\ud83d\uddfa a tiny map",
+        "url": "https:\/\/twitter.com\/tiny_map",
+        "description": "i tweet tiny maps that make stories (header by the brilliant @tomgauld)",
+        "status": "",
+        "tags": "Emoji"
     }
 ]

@@ -2,6 +2,818 @@
 
 $config = array(
     array(
+        "title" => "Emoji Meadow",
+        "url" => "https://twitter.com/EmojiMeadow",
+        "description" => "Every few hours I show you a tiny meadow full of grass and flowers. @EmojiMeadow@botsin.space",
+        "status" => '',
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@lettergamebot",
+        "url" => "https://twitter.com/lettergamebot",
+        "description" => "",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "ℓℽℭ▵ℕ☩♄ℜ◌β◍†",
+        "url" => "https://twitter.com/lycanthrobot",
+        "description" => "something weird is going on in the woods ✨ a tiny moon phase and werewolf bot",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "NYPL Emoji Bot",
+        "url" => "https://twitter.com/nyplemoji",
+        "description" => "✨Send @NYPLEmoji an emoji, receive an image ✉️ from @NYPL collections. ⏰Tweets once a day.",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "sunrisebot",
+        "url" => "https://twitter.com/sunrisebot",
+        "description" => "the sun is always rising, somewhere.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "♡ please take a break ♡",
+        "url" => "https://twitter.com/pls_take_breaks",
+        "description" => "reminding you to be kind to yourself & take a break every 3 hour",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "The Trump Watcher",
+        "url" => "https://twitter.com/thetrumpwatcher",
+        "description" => "How's Trump feeling?",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny astronaut",
+        "url" => "https://twitter.com/tiny_astro_naut",
+        "description" => "tiny adventures of tiny astronauts injected into @tiny_star_field's tiny star fields. by @elibrody",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny gardens",
+        "url" => "https://twitter.com/tiny_gardens",
+        "description" => "Tiny gardens, a few times a day.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny bus stop",
+        "url" => "https://twitter.com/tiny_bus_stop",
+        "description" => "Tiny people waiting for the tiny bus at the tiny bus stop.",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => ".'.'. tiny raindrops .'.'.",
+        "url" => "https://twitter.com/tiny_raindrops_",
+        "description" => "Smol, cute ASCII & emoji bot. 🌧️",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny cities",
+        "url" => "https://twitter.com/tiny_cityscapes",
+        "description" => "I post tiny emoji cities a few times a day.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "🌊🌊🌊🌊🌊🌊🌊🌊🌊",
+        "url" => "https://twitter.com/tiny_seas",
+        "description" => "",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "2 Emojicons in a bar",
+        "url" => "https://twitter.com/twoemojicons",
+        "description" => "What happens when 2 emojicons met in a bar?",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "unicode_garden",
+        "url" => "https://twitter.com/unicode_garden",
+        "description" => "gardens of characters",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Vroom Vroomington",
+        "url" => "https://twitter.com/vroom_vroom_bot",
+        "description" => "Tweets majestic imagery of traffic.",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "A Lovely Cloud",
+        "url" => "https://twitter.com/a_lovely_cloud",
+        "description" => "I'm a cloud IRL",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@_daysuntilxmas",
+        "url" => "https://twitter.com/_daysuntilxmas",
+        "description" => "it tweets out ASCII art (using emojis) displaying the number of days until Christmas.",
+        "status" => "suspended",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "_EMO_JI",
+        "url" => "https://twitter.com/_emo_ji",
+        "description" => "3️⃣0️⃣0️⃣0️⃣™ tweet me pix",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Awful Emoji",
+        "url" => "https://twitter.com/AwfulEmoji",
+        "description" => "Celebrating the weird faces and messy emotions of all the world.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "S P R I N G",
+        "url" => "https://twitter.com/fallingleafbot",
+        "description" => "small emoji bot posting on the hour by @hologramvin.",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "[face] to [face]",
+        "url" => "https://twitter.com/emojitoemoji",
+        "description" => "",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Bill W. Emojington",
+        "url" => "https://twitter.com/emojipotus",
+        "description" => "inspirational quotes from U.S. presidents, updated for the new age.",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Forecast",
+        "url" => "https://twitter.com/emojiforecast",
+        "description" => "The cutest (but not most accurate) weather forecast. Follow to receive tomorrow's weather each night, based on your profile location.",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@emoji_jury",
+        "url" => "https://twitter.com/emoji_jury",
+        "description" => "",
+        "status" => "suspended",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji-Spangled Bot",
+        "url" => "https://twitter.com/emojiUSA",
+        "description" => "a patriot bot",
+        "status" => "offline",
+        "tags" => "Emoji, Poetry"
+    ),
+    array(
+        "title" => "Junior Archaeologist",
+        "url" => "https://twitter.com/dinosaur_finder",
+        "description" => "I'll find the dinosaurs, so you don't have to!",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "digital henge",
+        "url" => "https://twitter.com/digital_henge",
+        "description" => "",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Invaders",
+        "url" => "https://twitter.com/dailyinvaders",
+        "description" => "InvaderBot",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "trains botting",
+        "url" => "https://twitter.com/choochoobot/",
+        "description" => "A mighty locomotive sweeps through rugged landscapes.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "I ❤️ This City",
+        "url" => "https://twitter.com/ilovethisbot",
+        "description" => "Destroying Milton Glaser's legacy, one microblog at a time.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "functionalemoji",
+        "url" => "https://twitter.com/functionalemoji",
+        "description" => "artisanal bot by @Objelisks",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "i love your gender",
+        "url" => "https://twitter.com/genderposibot",
+        "description" => "just a bot reminding you how great both you and your gender are! i love your gender, and mine!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "A_Head_With_Wings",
+        "url" => "https://twitter.com/headsandwings",
+        "description" => "I got a head with wings. #botALLY",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Bot Loves You",
+        "url" => "https://twitter.com/botlovesyou",
+        "description" => "I tweet hearts a few times daily. Mention me and I'll send you love.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Bot_Ideas",
+        "url" => "https://twitter.com/bot_ideas",
+        "description" => "art bot experiments by @tinyruin • magical stories with cute animals 🐻tiny emoji worlds 🏕️ and other things // all replies are by the bot too",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "bon appetiny",
+        "url" => "https://twitter.com/bon_appetiny",
+        "description" => "Tiny generated emoji dinners for two.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Botilius Syrus",
+        "url" => "https://twitter.com/botilius_syrus",
+        "description" => "Big into sententiae. Ave Caesar! I'll tweet one aphorism per day for 909 days.",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "TWEET ME 4 MOJI",
+        "url" => "https://twitter.com/TweetMe4Moji",
+        "description" => "Tweet me your pics and get better ones with 🔥 emoji.",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Tiny Protests",
+        "url" => "https://twitter.com/TinyProtests",
+        "description" => "🇺🇸 WE MARCH FOR ALL WHO ARE OPPRESSED.",
+        "status" => "offline",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@SymbolsBot",
+        "url" => "https://twitter.com/SymbolsBot",
+        "description" => "it tweets symbols in a pattern.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "NoEmojiForThis",
+        "url" => "https://twitter.com/NoEmojiForThis",
+        "description" => "There's no emoji for biography. Bot obsolete everytime a new emoji is added.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "🌲 A forest 🌳",
+        "url" => "https://twitter.com/Emojiforest",
+        "description" => "A random forest bot in the digital stream. 🌳🏠🌲",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Mood Bot",
+        "url" => "https://twitter.com/EmojiMoodBot",
+        "description" => "😀😍 How do you fell ? #emoji #mood #bot #smiley #face",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "The ❤️ Love bot !",
+        "url" => "https://twitter.com/EmojiLoveBot",
+        "description" => "An emoji  ❤️ bot. #love #heart #coeur #amour ❤️ Have some love in your timeline ! ❤️ #valentinesday #saintvalentin @Emojiforest @enbanf",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "emoji astronomy",
+        "url" => "https://twitter.com/EmojiAstro",
+        "description" => "Emoji constellations for a cosmic timeline 🛰 I send signals to earth every 7 hours",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Tiny Dungeon Bot",
+        "url" => "https://twitter.com/TinyDungeons",
+        "description" => "I make tiny dungeons meant to look like something out of Nethack",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny street",
+        "url" => "https://twitter.com/tiny_street",
+        "description" => "i tweet tiny street scenes. bot-in-progress by @jonnysun. based on the amazing work of @deer_ful!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@tiny_mssn_ctrl",
+        "url" => "https://twitter.com/tiny_mssn_ctrl",
+        "description" => "",
+        "status" => "suspended",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Smooth Unicode",
+        "url" => "https://twitter.com/SmoothUnicode",
+        "description" => "Getting you through your workday with the softest glyphs from the smoothest scripts.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Ghost Bot",
+        "url" => "https://twitter.com/GhostOfBotPast",
+        "description" => "I’m the ghost of bot past. I will post twice each day.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "❄winter wonderland❄",
+        "url" => "https://twitter.com/winter_scapes",
+        "description" => "little winter wonderlands 4x per day // inspired by @tiny_star_field and living in LA // by @_hartsick",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Tiny Homes",
+        "url" => "https://twitter.com/tinylittlehomes",
+        "description" => "",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Gender Reveal Bot",
+        "url" => "https://twitter.com/EmojiGenderBot",
+        "description" => "Tweeting out new emoji gender reveals twice daily!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "emoji tracks",
+        "url" => "https://twitter.com/emojitracks",
+        "description" => "Something came through here recently... (A bot by @oopsohno made using http://cheapbotsdonequick.com)",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Least Used Emoji Bot",
+        "url" => "https://twitter.com/leastUsedEmoji",
+        "description" => "Dedicated to informing the masses on which emoji is the least used.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Every Herd Bot",
+        "url" => "https://twitter.com/everyherd_bot",
+        "description" => "I take my herds for a walk every hour. @MikeyHay is my dad.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@folderisempty",
+        "url" => "https://twitter.com/folderisempty",
+        "description" => "it generates empty folders memes.",
+        "status" => "suspended",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "emoji pizzas",
+        "url" => "https://twitter.com/emoji_pizzas",
+        "description" => "",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tinyroad",
+        "url" => "https://twitter.com/Littlelandscap2",
+        "description" => "Tiny landscapes, tiny roads.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "It's Dangerous To Go Alone",
+        "url" => "https://twitter.com/goTakeThis",
+        "description" => "",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Nite Alps",
+        "url" => "https://twitter.com/NiteAlps",
+        "description" => "[What sort of people live in this place?]",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "the airport bot",
+        "url" => "https://twitter.com/theairplane_bot",
+        "description" => "I just generate airports ✈️",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "emojiMountain",
+        "url" => "https://twitter.com/emojiMountain",
+        "description" => "a mt. named for a twitter user",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@Diaeresis_OTPs",
+        "url" => "https://twitter.com/Diaeresis_OTPs",
+        "description" => "it tweets characters with diacritics and various kinds of hearts between them.",
+        "status" => "suspended",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Aquarium",
+        "url" => "https://twitter.com/EmojiAquarium",
+        "description" => "Every few hours I show you a tiny aquarium with interesting fish. Please do not tap the glass. @EmojiAquarium@botsin.space",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Tiny Forests",
+        "url" => "https://twitter.com/tiny_forests",
+        "description" => "@tiny_forests tweets tiny emoji forests with little animals.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@5adaybot ",
+        "url" => "https://twitter.com/5adaybot",
+        "description" => "it tweets five random fruit or vegetable emoji to encourage you to take a break and have a healthy snack.",
+        "status" => "suspended",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "EMOJI POLLS!",
+        "url" => "https://twitter.com/emoji__polls",
+        "description" => "Choose your favorite emoji, every 6 hours.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Tiny Gallery",
+        "url" => "https://twitter.com/thetinygallery",
+        "description" => "Tiny exhibits from the tiny gallery.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Blend",
+        "url" => "https://twitter.com/EmojiBlend",
+        "description" => "I create new emoji based on the Twitter designs.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Atlas",
+        "url" => "https://twitter.com/emojiatlas",
+        "description" => "The cute little brother of @unchartedatlas",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "EmojiPainter",
+        "url" => "https://twitter.com/EmojiPainter",
+        "description" => "AI generated emotions.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Moai Bot",
+        "url" => "https://twitter.com/MoaiEmojiBot",
+        "description" => "🗿 @TRASEVOL_DOG is my maker 🗿",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny cottages",
+        "url" => "https://twitter.com/tiny_cottages",
+        "description" => "a cottagecore twitterbot that posts a few times a day",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny reefs",
+        "url" => "https://twitter.com/tiny_reefs",
+        "description" => "a aquatic twitterbot that posts a few times a day",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny treelines",
+        "url" => "https://twitter.com/tiny_treelines",
+        "description" => "a stargazing twitterbot that posts a few times a day",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny seascape",
+        "url" => "https://twitter.com/tiny_seascape",
+        "description" => "a little splash of the big blue, every couple of hours 🌊 @LittleBlueLette",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "A Tiny Zoo",
+        "url" => "https://twitter.com/atinyzoo",
+        "description" => "I'm a bot who tweets very small zoos! My creators are @sadflavored and @pichealoco! Our animals are trained to not eat their other animal friends!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Wheels on the Bot",
+        "url" => "https://twitter.com/wheelsonthebot",
+        "description" => "@literature_geek's first bot",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Hourly Energy Bot",
+        "url" => "https://twitter.com/BotHourly",
+        "description" => "I'm a bot. Every hour I pick a random Balancing Authority on the U.S. Power Grid and tweet its energy sources for the past 60 minutes. Data Source: U.S. EIA",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "🗺 a tiny map",
+        "url" => "https://twitter.com/tiny_map",
+        "description" => "i tweet tiny maps that make stories (header by the brilliant @tomgauld)",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Hashflags",
+        "url" => "https://twitter.com/HashflagArchive",
+        "description" => "#️⃣ Bringing you the latest Hashflags and Twitter emoji. 🤖 A bot created by @Jamie_Magee. ℹ️ Not affiliated with Twitter in any way.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Magic Emoji Roundabout",
+        "url" => "https://twitter.com/EmojiRoundabout",
+        "description" => "An efficient and safe junction, loved by all that drive across her",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@face2pumpkin",
+        "url" => "https://twitter.com/face2pumpkin",
+        "description" => "@face2pumpkin is a Twitter bot created by Derek Ahmedzai that replaces faces in images that are tweeted at it with pumpkin emoji using Cloudinary’s image API.",
+        "status" => "suspended",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Armageddon (Deutsch Version)",
+        "url" => "https://twitter.com/SurrogaDesigns",
+        "description" => "Ein 'Ende Der Welt' Spiele mit Emojis 7 Tag Vorhersage. Follow die konto die spiele zu teilnehmen!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Fruity Slot Bot 🎰🤖",
+        "url" => "https://twitter.com/lonesome_arcade",
+        "description" => "Doomed to play this machine forever!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Turtles All The Way",
+        "url" => "https://twitter.com/turtles_down",
+        "description" => "A bot by @air_hadoken that attempts to create the universe. #really #notreally #botALLY",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Unicode tweets",
+        "url" => "https://twitter.com/UnicodeTweet",
+        "description" => "Random Unicode character tweets. Emojis on Sunday! Powered by http://unicode-table.com",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Hi❕🤖",
+        "url" => "https://twitter.com/BotThatSaysHi",
+        "description" => "Hi ! Everydays.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji + Face Mashup Bot",
+        "url" => "https://twitter.com/EmojiMashupFace",
+        "description" => "Tries to create new emojis from random Face Emoji + Expression Emoji.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Dungeon Ideas",
+        "url" => "https://twitter.com/dungeonideas",
+        "description" => "@dungeonideas",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "@EmojiStorms",
+        "url" => "https://twitter.com/EmojiStorms",
+        "description" => "Tweeting a new stormy scene every 3 hours!",
+        "status" => "",
+        "tags" => "Emoji"
+    ), 
+    array(
+        "title" => "Emoji-DNA",
+        "url" => "https://twitter.com/emoji_dna",
+        "description" => "Tweets out an emoji dna strand every 30 minutes.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Writer's Block Bot",
+        "url" => "https://twitter.com/WritersBlockBot",
+        "description" => "I tweet randomly-generated, emoji-based writing prompts, to help get those creative juices flowing!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "ClassroomBot",
+        "url" => "https://twitter.com/BotClassroom",
+        "description" => "",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Road Trip Bot",
+        "url" => "https://twitter.com/RoadTripBot_",
+        "description" => "A new road trip twice a day",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Tarot Emoji Bot",
+        "url" => "https://twitter.com/tarojibot",
+        "description" => "Hi! I'm a bot who does tarot readings with emojis.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emojimuseet",
+        "url" => "https://twitter.com/Emojimuseet",
+        "description" => "Send me an emoji and get an object, photo or artwork from a 🇸🇪 museum in return.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "eff_dee_emmu",
+        "url" => "https://twitter.com/effdeeemmu",
+        "description" => "Each line, vertical and horizontal, must have a mix of three O and three X, but you can never have three of the same consecutive character!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny_forest",
+        "url" => "https://twitter.com/tiny__forest",
+        "description" => "A tiny forest beneath a @tiny_star_field",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Weather USA",
+        "url" => "https://twitter.com/EmojiWeatherUSA",
+        "description" => "Emoji weather forecast every 6 hours 🌞",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Weather California",
+        "url" => "https://twitter.com/EmojiWeatherCA",
+        "description" => "Californian emoji weather forecast every 6 hours 🌞",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Mashup Bot",
+        "url" => "https://twitter.com/EmojiMashupBot",
+        "description" => "Tries to create new emojis out of 2 random emojis.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Tiny Pride Parade",
+        "url" => "https://twitter.com/tinyprideparade",
+        "description" => "Tiny LGBTQ+ parades celebrating tiny pride!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Flags Mashup Bot",
+        "url" => "https://twitter.com/FlagsMashupBot",
+        "description" => "Automated bot that creates random flags from 2 existing flags picked randomly.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Tiny Petting Zoo",
+        "url" => "https://twitter.com/TinyPettingZoo",
+        "description" => "Every few hours I show you a cute petting zoo. Please pet the animals and feed them emoji food. @TinyPettingZoo@botsin.space",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Zoo Trains",
+        "url" => "https://twitter.com/thezootrain",
+        "description" => "Your number one source for random animal trains.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Flags of Flags",
+        "url" => "https://twitter.com/flags_of_flags",
+        "description" => "Four flags per day",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "👏 Clappiness Patrol 👏",
+        "url" => "https://twitter.com/ClappinessBot",
+        "description" => "👏Clapping👏on👏Twitter👏does👏something👏important!👏",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Space scenes Bot",
+        "url" => "https://twitter.com/cute_space_bot",
+        "description" => "🤖 hi, I am a bot by @dharmadeveloper 👋 I generate cute galactic scenes every few hours, sometimes with a wholesome message.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "emojipicbot",
+        "url" => "https://twitter.com/emojipicbot",
+        "description" => "Tag me with an image to let me convert it into emojis!",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "tiny ladybug",
+        "url" => "https://twitter.com/thetinyladybug",
+        "description" => "just a ladybug travels around the world - bot by @lizeyao and @Shrimpapa1",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Emoji Princesses",
+        "url" => "https://twitter.com/EmojiPrincesses",
+        "description" => "I am a bot created by @JoeSondow, inspired by @EverySheriff. Every few hours we are visited by one of the princesses.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "Every Sheriff Bot",
+        "url" => "https://twitter.com/EverySheriff",
+        "description" => "Algorithmic Sheriff Memes For Fun and Profit(?)",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
+        "title" => "TweteoSwiss (@meteo@tooting.ch)",
+        "url" => "https://twitter.com/TweteoSwiss",
+        "description" => "Emoji weather, three times per day, by @rastrau. «Tell me this is a bot updating hourly.» – @yrochat, upon seeing the 1st map draft. Sibling of @tweteoswissplus.",
+        "status" => "",
+        "tags" => "Emoji"
+    ),
+    array(
         "title" => "Inchydoney Cam",
         "url" => "https://twitter.com/InchydoneyCam",
         "description" => "Images from the Inchydoney beach web cam at @inchydoneylodge updated every hour. Now with added #cheese ! Created by @TweetPhelan",
@@ -47,42 +859,42 @@ $config = array(
         "title" => "Bill Gates' Jets",
         "url" => "https://twitter.com/GatesJets",
         "description" => "Bill Gates Jet tracking by @JxckSweeney N194WM and N887WM for now may be adding the rest including helicopter. @ADSBExchange Data",
-        "status" => '',
+        "status" => 'suspended',
         "tags" => "Flights"
     ),
     array(
         "title" => "Celebrity Jets",
         "url" => "https://twitter.com/CelebJets",
         "description" => "Tracking Celebrities Jets. Coded and run by @JxckSweeney using @ADSBExchange data",
-        "status" => '',
+        "status" => 'suspended',
         "tags" => "Flights"
     ),
     array(
         "title" => "ElonJet",
         "url" => "https://twitter.com/elonjet",
         "description" => "Tracking Elon Musk's Private Jet(N628TS) with a bot using public ADS-B data @ADSBExchange, contact @JxckSweeney for inquiries http://ElonJet.net",
-        "status" => '',
+        "status" => 'suspended',
         "tags" => "Flights"
     ),
     array(
         "title" => "Kimbal Musk's Jet",
         "url" => "https://twitter.com/KimbalJet",
         "description" => "Tracking Kimbal Musk's Jet (N813FR) previously (N278PC) by @JxckSweeney @ADSBExchange Data",
-        "status" => '',
+        "status" => 'suspended',
         "tags" => "Flights"
     ),
     array(
         "title" => "Russian VIP & Putin Jets",
         "url" => "https://twitter.com/PutinJet",
         "description" => "Tracking the Russian State VIP jets and any Putin may use (he’ not necessarily on) @ADSBExchange data, by @JxckSweeney",
-        "status" => '',
+        "status" => 'suspended',
         "tags" => "Flights"
     ),
     array(
         "title" => "Zucc Jet",
         "url" => "https://twitter.com/ZuccJet",
         "description" => "Bot Tracking Mark Zuckerberg’s Jet using @ADSBExchange data by @JxckSweeney",
-        "status" => '',
+        "status" => 'suspended',
         "tags" => "Flights"
     ),
     array(
@@ -96,6 +908,13 @@ $config = array(
         "title" => "Donald Trump Retruth, Tweets from Truth Social 🤖",
         "url" => "https://twitter.com/TrumpRetruth",
         "description" => "For supporters❤️ and haters😠, read Trump everywhere, updated every hour 🤖 from TruthSocial, all the posts are original, written or reposted from Trump",
+        "status" => 'suspended',
+        "tags" => "Funny"
+    ),
+    array(
+        "title" => "Donald Trump Retruth, Tweets from Truth Social 🤖",
+        "url" => "https://twitter.com/MagaWorldTruth",
+        "description" => "🇺🇸 Read Trump everywhere, updated every hour 🤖 from TruthSocial, all the posts are original, written or reposted from Trump",
         "status" => '',
         "tags" => "Funny"
     ),
@@ -174,7 +993,7 @@ $config = array(
         "url" => "https://twitter.com/Hangman_Bot",
         "description" => "Play a game of hangman.",
         "status" => 'offline',
-        "tags" => "Game, Interactive"
+        "tags" => "Game, Interactive, Emoji"
     ),
     array(
         "title" => "@chessbot2020",
@@ -205,11 +1024,11 @@ $config = array(
         "tags" => "Game, Interactive"
     ),
     array(
-        "title" => "@EmojiSnakeGame",
+        "title" => "Emoji Snake Game",
         "url" => "https://twitter.com/EmojiSnakeGame",
         "description" => "The Snake game with emoji and Twitter polls.",
         "status" => '',
-        "tags" => "Game, Interactive"
+        "tags" => "Game, Interactive, Emoji"
     ),
     array(
         "title" => "@LetsPlayTrivia",
@@ -240,25 +1059,25 @@ $config = array(
         "tags" => "Game, Interactive"
     ),
     array(
-        "title" => "@Ro_Sham_Bot",
+        "title" => "rockpaperscissor",
         "url" => "https://twitter.com/Ro_Sham_Bot",
         "description" => "Want to battle? ✊✋✌",
         "status" => 'offline',
-        "tags" => "Game, Interactive"
+        "tags" => "Game, Interactive, Emoji"
     ),
     array(
         "title" => "@boggle_bot",
         "url" => "https://twitter.com/boggle_bot",
         "description" => "Let's play Boggle!",
         "status" => 'suspended',
-        "tags" => "Game, Interactive"
+        "tags" => "Game, Interactive, Emoji"
     ),
     array(
-        "title" => "@EmojiTetra",
+        "title" => "Emoji Tetra",
         "url" => "https://twitter.com/EmojiTetra",
         "description" => "Falling shapes made from emoji, moved and rotated by Twitter poll results.",
         "status" => '',
-        "tags" => "Game, Interactive"
+        "tags" => "Game, Interactive, Emoji"
     ),
     array(
         "title" => "@Botgle",
@@ -335,7 +1154,7 @@ $config = array(
         "url" => "https://twitter.com/letsplaysnake",
         "description" => "Up, down, left, right!",
         "status" => 'offline',
-        "tags" => "Game, Interactive"
+        "tags" => "Game, Interactive, Emoji"
     ),
     array(
         "title" => "blackletter walk",
@@ -1312,13 +2131,6 @@ $config = array(
         "tags" => "Poetry"
     ),
     array(
-        "title" => "@emojiUSA",
-        "url" => "https://twitter.com/emojiUSA",
-        "description" => "A patriot bot.",
-        "status" => '',
-        "tags" => "Poetry"
-    ),
-    array(
         "title" => "@emoji_haiku",
         "url" => "https://twitter.com/emoji_haiku",
         "description" => "Emoji + Haiku",
@@ -1326,11 +2138,11 @@ $config = array(
         "tags" => "Poetry"
     ),
     array(
-        "title" => "@forestgen",
+        "title" => "peaceful forest bot",
         "url" => "https://twitter.com/forestgen",
         "description" => "Tweet me to get your own unique peaceful forest. Stay calm.",
         "status" => 'offline',
-        "tags" => "Poetry"
+        "tags" => "Emoji, Poetry"
     ),
     array(
         "title" => "@glossatory",

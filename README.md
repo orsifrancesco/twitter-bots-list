@@ -10,9 +10,9 @@
     <sup>Status</sup>
     <br>
     <a href="#index">
-        <img alt="Number of Categories" src="https://img.shields.io/badge/Number of Categories-13-blue" style="max-width: 100%;" />
+        <img alt="Number of Categories" src="https://img.shields.io/badge/Number of Categories-14-blue" style="max-width: 100%;" />
     </a>
-    <img alt="Total Bots" src="https://img.shields.io/badge/Total Bots-367-blue" style="max-width: 100%;" />
+    <img alt="Total Bots" src="https://img.shields.io/badge/Total Bots-483-blue" style="max-width: 100%;" />
 </div>
 
 <br />
@@ -20,6 +20,7 @@
 ## Index
 * [Cams](#cams)
 * [Crypto Currencies](#crypto-currencies)
+* [Emoji](#emoji)
 * [Flights](#flights)
 * [Funny](#funny)
 * [Game](#game)
@@ -63,15 +64,147 @@ Bot | Description | Status |
 
 <br />
 
+### Emoji
+Bot | Description | Status |
+|---|---|---|
+| [.'.'. tiny raindrops .'.'.](https://twitter.com/tiny_raindrops_) | Smol, cute ASCII & emoji bot. 🌧️ | - |
+| [2 Emojicons in a bar](https://twitter.com/twoemojicons) | What happens when 2 emojicons met in a bar? | - |
+| [@5adaybot ](https://twitter.com/5adaybot) | it tweets five random fruit or vegetable emoji to encourage you to take a break and have a healthy snack. | suspended |
+| [@Diaeresis_OTPs](https://twitter.com/Diaeresis_OTPs) | it tweets characters with diacritics and various kinds of hearts between them. | suspended |
+| [@EmojiStorms](https://twitter.com/EmojiStorms) | Tweeting a new stormy scene every 3 hours! | - |
+| [@Hangman_Bot](https://twitter.com/Hangman_Bot) | Play a game of hangman. | offline |
+| [@SymbolsBot](https://twitter.com/SymbolsBot) | it tweets symbols in a pattern. | - |
+| [@_daysuntilxmas](https://twitter.com/_daysuntilxmas) | it tweets out ASCII art (using emojis) displaying the number of days until Christmas. | suspended |
+| [@boggle_bot](https://twitter.com/boggle_bot) | Let's play Boggle! | suspended |
+| [@emoji_jury](https://twitter.com/emoji_jury) | - | suspended |
+| [@face2pumpkin](https://twitter.com/face2pumpkin) | @face2pumpkin is a Twitter bot created by Derek Ahmedzai that replaces faces in images that are tweeted at it with pumpkin emoji using Cloudinary’s image API. | suspended |
+| [@folderisempty](https://twitter.com/folderisempty) | it generates empty folders memes. | suspended |
+| [@letsplaysnake](https://twitter.com/letsplaysnake) | Up, down, left, right! | offline |
+| [@lettergamebot](https://twitter.com/lettergamebot) | - | - |
+| [@tiny_mssn_ctrl](https://twitter.com/tiny_mssn_ctrl) | - | suspended |
+| [A Lovely Cloud](https://twitter.com/a_lovely_cloud) | I'm a cloud IRL | offline |
+| [A Tiny Zoo](https://twitter.com/atinyzoo) | I'm a bot who tweets very small zoos! My creators are @sadflavored and @pichealoco! Our animals are trained to not eat their other animal friends! | - |
+| [A_Head_With_Wings](https://twitter.com/headsandwings) | I got a head with wings. #botALLY | - |
+| [Awful Emoji](https://twitter.com/AwfulEmoji) | Celebrating the weird faces and messy emotions of all the world. | - |
+| [Bill W. Emojington](https://twitter.com/emojipotus) | inspirational quotes from U.S. presidents, updated for the new age. | offline |
+| [Bot Loves You](https://twitter.com/botlovesyou) | I tweet hearts a few times daily. Mention me and I'll send you love. | - |
+| [Bot_Ideas](https://twitter.com/bot_ideas) | art bot experiments by @tinyruin • magical stories with cute animals 🐻tiny emoji worlds 🏕️ and other things // all replies are by the bot too | - |
+| [Botilius Syrus](https://twitter.com/botilius_syrus) | Big into sententiae. Ave Caesar! I'll tweet one aphorism per day for 909 days. | offline |
+| [ClassroomBot](https://twitter.com/BotClassroom) | - | - |
+| [Dungeon Ideas](https://twitter.com/dungeonideas) | @dungeonideas | - |
+| [EMOJI POLLS!](https://twitter.com/emoji__polls) | Choose your favorite emoji, every 6 hours. | - |
+| [Emoji + Face Mashup Bot](https://twitter.com/EmojiMashupFace) | Tries to create new emojis from random Face Emoji + Expression Emoji. | - |
+| [Emoji Aquarium](https://twitter.com/EmojiAquarium) | Every few hours I show you a tiny aquarium with interesting fish. Please do not tap the glass. @EmojiAquarium@botsin.space | - |
+| [Emoji Armageddon (Deutsch Version)](https://twitter.com/SurrogaDesigns) | Ein 'Ende Der Welt' Spiele mit Emojis 7 Tag Vorhersage. Follow die konto die spiele zu teilnehmen! | - |
+| [Emoji Atlas](https://twitter.com/emojiatlas) | The cute little brother of @unchartedatlas | - |
+| [Emoji Blend](https://twitter.com/EmojiBlend) | I create new emoji based on the Twitter designs. | - |
+| [Emoji Forecast](https://twitter.com/emojiforecast) | The cutest (but not most accurate) weather forecast. Follow to receive tomorrow's weather each night, based on your profile location. | offline |
+| [Emoji Gender Reveal Bot](https://twitter.com/EmojiGenderBot) | Tweeting out new emoji gender reveals twice daily! | - |
+| [Emoji Mashup Bot](https://twitter.com/EmojiMashupBot) | Tries to create new emojis out of 2 random emojis. | - |
+| [Emoji Meadow](https://twitter.com/EmojiMeadow) | Every few hours I show you a tiny meadow full of grass and flowers. @EmojiMeadow@botsin.space | - |
+| [Emoji Princesses](https://twitter.com/EmojiPrincesses) | I am a bot created by @JoeSondow, inspired by @EverySheriff. Every few hours we are visited by one of the princesses. | - |
+| [Emoji Snake Game](https://twitter.com/EmojiSnakeGame) | The Snake game with emoji and Twitter polls. | - |
+| [Emoji Tetra](https://twitter.com/EmojiTetra) | Falling shapes made from emoji, moved and rotated by Twitter poll results. | - |
+| [Emoji Weather California](https://twitter.com/EmojiWeatherCA) | Californian emoji weather forecast every 6 hours 🌞 | - |
+| [Emoji Weather USA](https://twitter.com/EmojiWeatherUSA) | Emoji weather forecast every 6 hours 🌞 | - |
+| [Emoji-DNA](https://twitter.com/emoji_dna) | Tweets out an emoji dna strand every 30 minutes. | - |
+| [Emoji-Spangled Bot](https://twitter.com/emojiUSA) | a patriot bot | offline |
+| [EmojiPainter](https://twitter.com/EmojiPainter) | AI generated emotions. | - |
+| [Emojimuseet](https://twitter.com/Emojimuseet) | Send me an emoji and get an object, photo or artwork from a 🇸🇪 museum in return. | - |
+| [Every Herd Bot](https://twitter.com/everyherd_bot) | I take my herds for a walk every hour. @MikeyHay is my dad. | - |
+| [Every Sheriff Bot](https://twitter.com/EverySheriff) | Algorithmic Sheriff Memes For Fun and Profit(?) | - |
+| [Flags Mashup Bot](https://twitter.com/FlagsMashupBot) | Automated bot that creates random flags from 2 existing flags picked randomly. | - |
+| [Flags of Flags](https://twitter.com/flags_of_flags) | Four flags per day | - |
+| [Fruity Slot Bot 🎰🤖](https://twitter.com/lonesome_arcade) | Doomed to play this machine forever! | - |
+| [Ghost Bot](https://twitter.com/GhostOfBotPast) | I’m the ghost of bot past. I will post twice each day. | - |
+| [Hashflags](https://twitter.com/HashflagArchive) | #️⃣ Bringing you the latest Hashflags and Twitter emoji. 🤖 A bot created by @Jamie_Magee. ℹ️ Not affiliated with Twitter in any way. | - |
+| [Hi❕🤖](https://twitter.com/BotThatSaysHi) | Hi ! Everydays. | - |
+| [Hourly Energy Bot](https://twitter.com/BotHourly) | I'm a bot. Every hour I pick a random Balancing Authority on the U.S. Power Grid and tweet its energy sources for the past 60 minutes. Data Source: U.S. EIA | - |
+| [I ❤️ This City](https://twitter.com/ilovethisbot) | Destroying Milton Glaser's legacy, one microblog at a time. | - |
+| [Invaders](https://twitter.com/dailyinvaders) | InvaderBot | offline |
+| [It's Dangerous To Go Alone](https://twitter.com/goTakeThis) | - | - |
+| [Junior Archaeologist](https://twitter.com/dinosaur_finder) | I'll find the dinosaurs, so you don't have to! | offline |
+| [Least Used Emoji Bot](https://twitter.com/leastUsedEmoji) | Dedicated to informing the masses on which emoji is the least used. | - |
+| [Magic Emoji Roundabout](https://twitter.com/EmojiRoundabout) | An efficient and safe junction, loved by all that drive across her | - |
+| [Moai Bot](https://twitter.com/MoaiEmojiBot) | 🗿 @TRASEVOL_DOG is my maker 🗿 | - |
+| [Mood Bot](https://twitter.com/EmojiMoodBot) | 😀😍 How do you fell ? #emoji #mood #bot #smiley #face | - |
+| [NYPL Emoji Bot](https://twitter.com/nyplemoji) | ✨Send @NYPLEmoji an emoji, receive an image ✉️ from @NYPL collections. ⏰Tweets once a day. | offline |
+| [Nite Alps](https://twitter.com/NiteAlps) | [What sort of people live in this place?] | - |
+| [NoEmojiForThis](https://twitter.com/NoEmojiForThis) | There's no emoji for biography. Bot obsolete everytime a new emoji is added. | - |
+| [Road Trip Bot](https://twitter.com/RoadTripBot_) | A new road trip twice a day | - |
+| [S P R I N G](https://twitter.com/fallingleafbot) | small emoji bot posting on the hour by @hologramvin. | offline |
+| [Smooth Unicode](https://twitter.com/SmoothUnicode) | Getting you through your workday with the softest glyphs from the smoothest scripts. | - |
+| [Space scenes Bot](https://twitter.com/cute_space_bot) | 🤖 hi, I am a bot by @dharmadeveloper 👋 I generate cute galactic scenes every few hours, sometimes with a wholesome message. | - |
+| [TWEET ME 4 MOJI](https://twitter.com/TweetMe4Moji) | Tweet me your pics and get better ones with 🔥 emoji. | offline |
+| [Tarot Emoji Bot](https://twitter.com/tarojibot) | Hi! I'm a bot who does tarot readings with emojis. | - |
+| [The Trump Watcher](https://twitter.com/thetrumpwatcher) | How's Trump feeling? | offline |
+| [The ❤️ Love bot !](https://twitter.com/EmojiLoveBot) | An emoji  ❤️ bot. #love #heart #coeur #amour ❤️ Have some love in your timeline ! ❤️ #valentinesday #saintvalentin @Emojiforest @enbanf | - |
+| [Tiny Dungeon Bot](https://twitter.com/TinyDungeons) | I make tiny dungeons meant to look like something out of Nethack | - |
+| [Tiny Forests](https://twitter.com/tiny_forests) | @tiny_forests tweets tiny emoji forests with little animals. | - |
+| [Tiny Gallery](https://twitter.com/thetinygallery) | Tiny exhibits from the tiny gallery. | - |
+| [Tiny Homes](https://twitter.com/tinylittlehomes) | - | - |
+| [Tiny Petting Zoo](https://twitter.com/TinyPettingZoo) | Every few hours I show you a cute petting zoo. Please pet the animals and feed them emoji food. @TinyPettingZoo@botsin.space | - |
+| [Tiny Pride Parade](https://twitter.com/tinyprideparade) | Tiny LGBTQ+ parades celebrating tiny pride! | - |
+| [Tiny Protests](https://twitter.com/TinyProtests) | 🇺🇸 WE MARCH FOR ALL WHO ARE OPPRESSED. | offline |
+| [Turtles All The Way](https://twitter.com/turtles_down) | A bot by @air_hadoken that attempts to create the universe. #really #notreally #botALLY | - |
+| [TweteoSwiss (@meteo@tooting.ch)](https://twitter.com/TweteoSwiss) | Emoji weather, three times per day, by @rastrau. «Tell me this is a bot updating hourly.» – @yrochat, upon seeing the 1st map draft. Sibling of @tweteoswissplus. | - |
+| [Unicode tweets](https://twitter.com/UnicodeTweet) | Random Unicode character tweets. Emojis on Sunday! Powered by http://unicode-table.com | - |
+| [Vroom Vroomington](https://twitter.com/vroom_vroom_bot) | Tweets majestic imagery of traffic. | offline |
+| [Wheels on the Bot](https://twitter.com/wheelsonthebot) | @literature_geek's first bot | - |
+| [Writer's Block Bot](https://twitter.com/WritersBlockBot) | I tweet randomly-generated, emoji-based writing prompts, to help get those creative juices flowing! | - |
+| [Zoo Trains](https://twitter.com/thezootrain) | Your number one source for random animal trains. | - |
+| [[face] to [face]](https://twitter.com/emojitoemoji) | - | offline |
+| [_EMO_JI](https://twitter.com/_emo_ji) | 3️⃣0️⃣0️⃣0️⃣™ tweet me pix | offline |
+| [bon appetiny](https://twitter.com/bon_appetiny) | Tiny generated emoji dinners for two. | - |
+| [digital henge](https://twitter.com/digital_henge) | - | offline |
+| [eff_dee_emmu](https://twitter.com/effdeeemmu) | Each line, vertical and horizontal, must have a mix of three O and three X, but you can never have three of the same consecutive character! | - |
+| [emoji astronomy](https://twitter.com/EmojiAstro) | Emoji constellations for a cosmic timeline 🛰 I send signals to earth every 7 hours | - |
+| [emoji pizzas](https://twitter.com/emoji_pizzas) | - | - |
+| [emoji tracks](https://twitter.com/emojitracks) | Something came through here recently... (A bot by @oopsohno made using http://cheapbotsdonequick.com) | - |
+| [emojiMountain](https://twitter.com/emojiMountain) | a mt. named for a twitter user | - |
+| [emojipicbot](https://twitter.com/emojipicbot) | Tag me with an image to let me convert it into emojis! | - |
+| [functionalemoji](https://twitter.com/functionalemoji) | artisanal bot by @Objelisks | - |
+| [i love your gender](https://twitter.com/genderposibot) | just a bot reminding you how great both you and your gender are! i love your gender, and mine! | - |
+| [peaceful forest bot](https://twitter.com/forestgen) | Tweet me to get your own unique peaceful forest. Stay calm. | offline |
+| [rockpaperscissor](https://twitter.com/Ro_Sham_Bot) | Want to battle? ✊✋✌ | offline |
+| [sunrisebot](https://twitter.com/sunrisebot) | the sun is always rising, somewhere. | - |
+| [the airport bot](https://twitter.com/theairplane_bot) | I just generate airports ✈️ | - |
+| [tiny astronaut](https://twitter.com/tiny_astro_naut) | tiny adventures of tiny astronauts injected into @tiny_star_field's tiny star fields. by @elibrody | offline |
+| [tiny bus stop](https://twitter.com/tiny_bus_stop) | Tiny people waiting for the tiny bus at the tiny bus stop. | offline |
+| [tiny cities](https://twitter.com/tiny_cityscapes) | I post tiny emoji cities a few times a day. | - |
+| [tiny cottages](https://twitter.com/tiny_cottages) | a cottagecore twitterbot that posts a few times a day | - |
+| [tiny gardens](https://twitter.com/tiny_gardens) | Tiny gardens, a few times a day. | - |
+| [tiny ladybug](https://twitter.com/thetinyladybug) | just a ladybug travels around the world - bot by @lizeyao and @Shrimpapa1 | - |
+| [tiny reefs](https://twitter.com/tiny_reefs) | a aquatic twitterbot that posts a few times a day | - |
+| [tiny seascape](https://twitter.com/tiny_seascape) | a little splash of the big blue, every couple of hours 🌊 @LittleBlueLette | - |
+| [tiny street](https://twitter.com/tiny_street) | i tweet tiny street scenes. bot-in-progress by @jonnysun. based on the amazing work of @deer_ful! | - |
+| [tiny treelines](https://twitter.com/tiny_treelines) | a stargazing twitterbot that posts a few times a day | - |
+| [tiny_forest](https://twitter.com/tiny__forest) | A tiny forest beneath a @tiny_star_field | - |
+| [tinyroad](https://twitter.com/Littlelandscap2) | Tiny landscapes, tiny roads. | - |
+| [trains botting](https://twitter.com/choochoobot/) | A mighty locomotive sweeps through rugged landscapes. | - |
+| [unicode_garden](https://twitter.com/unicode_garden) | gardens of characters | - |
+| [ℓℽℭ▵ℕ☩♄ℜ◌β◍†](https://twitter.com/lycanthrobot) | something weird is going on in the woods ✨ a tiny moon phase and werewolf bot | - |
+| [♡ please take a break ♡](https://twitter.com/pls_take_breaks) | reminding you to be kind to yourself & take a break every 3 hour | offline |
+| [❄winter wonderland❄](https://twitter.com/winter_scapes) | little winter wonderlands 4x per day // inspired by @tiny_star_field and living in LA // by @_hartsick | - |
+| [🌊🌊🌊🌊🌊🌊🌊🌊🌊](https://twitter.com/tiny_seas) | - | offline |
+| [🌲 A forest 🌳](https://twitter.com/Emojiforest) | A random forest bot in the digital stream. 🌳🏠🌲 | - |
+| [👏 Clappiness Patrol 👏](https://twitter.com/ClappinessBot) | 👏Clapping👏on👏Twitter👏does👏something👏important!👏 | - |
+| [🗺 a tiny map](https://twitter.com/tiny_map) | i tweet tiny maps that make stories (header by the brilliant @tomgauld) | - |
+
+
+**[⬆ Back to Index](#index)**
+
+<br />
+
 ### Flights
 Bot | Description | Status |
 |---|---|---|
-| [Bill Gates' Jets](https://twitter.com/GatesJets) | Bill Gates Jet tracking by @JxckSweeney N194WM and N887WM for now may be adding the rest including helicopter. @ADSBExchange Data | - |
-| [Celebrity Jets](https://twitter.com/CelebJets) | Tracking Celebrities Jets. Coded and run by @JxckSweeney using @ADSBExchange data | - |
-| [ElonJet](https://twitter.com/elonjet) | Tracking Elon Musk's Private Jet(N628TS) with a bot using public ADS-B data @ADSBExchange, contact @JxckSweeney for inquiries http://ElonJet.net | - |
-| [Kimbal Musk's Jet](https://twitter.com/KimbalJet) | Tracking Kimbal Musk's Jet (N813FR) previously (N278PC) by @JxckSweeney @ADSBExchange Data | - |
-| [Russian VIP & Putin Jets](https://twitter.com/PutinJet) | Tracking the Russian State VIP jets and any Putin may use (he’ not necessarily on) @ADSBExchange data, by @JxckSweeney | - |
-| [Zucc Jet](https://twitter.com/ZuccJet) | Bot Tracking Mark Zuckerberg’s Jet using @ADSBExchange data by @JxckSweeney | - |
+| [Bill Gates' Jets](https://twitter.com/GatesJets) | Bill Gates Jet tracking by @JxckSweeney N194WM and N887WM for now may be adding the rest including helicopter. @ADSBExchange Data | suspended |
+| [Celebrity Jets](https://twitter.com/CelebJets) | Tracking Celebrities Jets. Coded and run by @JxckSweeney using @ADSBExchange data | suspended |
+| [ElonJet](https://twitter.com/elonjet) | Tracking Elon Musk's Private Jet(N628TS) with a bot using public ADS-B data @ADSBExchange, contact @JxckSweeney for inquiries http://ElonJet.net | suspended |
+| [Kimbal Musk's Jet](https://twitter.com/KimbalJet) | Tracking Kimbal Musk's Jet (N813FR) previously (N278PC) by @JxckSweeney @ADSBExchange Data | suspended |
+| [Russian VIP & Putin Jets](https://twitter.com/PutinJet) | Tracking the Russian State VIP jets and any Putin may use (he’ not necessarily on) @ADSBExchange data, by @JxckSweeney | suspended |
+| [Zucc Jet](https://twitter.com/ZuccJet) | Bot Tracking Mark Zuckerberg’s Jet using @ADSBExchange data by @JxckSweeney | suspended |
 
 
 **[⬆ Back to Index](#index)**
@@ -82,7 +215,8 @@ Bot | Description | Status |
 Bot | Description | Status |
 |---|---|---|
 | [Big Ben](https://twitter.com/big_ben_clock) | The first, established November 2009 & entirely unofficial. Copyright details here: http://tinyurl.com/ylqbey3, but still apparently imitated everywhere. | - |
-| [Donald Trump Retruth, Tweets from Truth Social 🤖](https://twitter.com/TrumpRetruth) | For supporters❤️ and haters😠, read Trump everywhere, updated every hour 🤖 from TruthSocial, all the posts are original, written or reposted from Trump | - |
+| [Donald Trump Retruth, Tweets from Truth Social 🤖](https://twitter.com/TrumpRetruth) | For supporters❤️ and haters😠, read Trump everywhere, updated every hour 🤖 from TruthSocial, all the posts are original, written or reposted from Trump | suspended |
+| [Donald Trump Retruth, Tweets from Truth Social 🤖](https://twitter.com/MagaWorldTruth) | 🇺🇸 Read Trump everywhere, updated every hour 🤖 from TruthSocial, all the posts are original, written or reposted from Trump | - |
 | [Lego Bot](https://mobile.twitter.com/legotracker) | - | - |
 | [Lego Space Bot](https://twitter.com/legospacebot) | Pictures of Lego Space stuff from the Classic and System eras. ~1 picture every 2 hours | offline |
 | [infinite deserts_ψ__](https://twitter.com/infinitedeserts) | an infinity of deserts, each more infinite than the last. bot mapped by @getdizzzy | - |
@@ -96,11 +230,8 @@ Bot | Description | Status |
 Bot | Description | Status |
 |---|---|---|
 | [@Botgle](https://twitter.com/Botgle) | The game is played using a plastic grid of lettered dice, in which players attempt to find words in sequences of adjacent letters. | offline |
-| [@EmojiSnakeGame](https://twitter.com/EmojiSnakeGame) | The Snake game with emoji and Twitter polls. | - |
-| [@EmojiTetra](https://twitter.com/EmojiTetra) | Falling shapes made from emoji, moved and rotated by Twitter poll results. | - |
 | [@Hangman_Bot](https://twitter.com/Hangman_Bot) | Play a game of hangman. | offline |
 | [@LetsPlayTrivia](https://twitter.com/LetsPlayTrivia) | A bot that posts trivia questions as polls | - |
-| [@Ro_Sham_Bot](https://twitter.com/Ro_Sham_Bot) | Want to battle? ✊✋✌ | offline |
 | [@RollDiceBot](https://twitter.com/RollDiceBot) | Dice bot loves to play dice games, ask it for a roll! | - |
 | [@TheRiddlerBot](https://twitter.com/TheRiddlerBot) | Solve the riddle! | offline |
 | [@TresEnRayaBot](https://twitter.com/TresEnRayaBot) | Play Tic-tac-toe on Twitter! | - |
@@ -118,6 +249,8 @@ Bot | Description | Status |
 | [@spindlewheelbot](https://twitter.com/spindlewheelbot) | An interpretive, card-based storytelling bot. | - |
 | [@unoforeveryone](https://twitter.com/unoforeveryone) | Cooperative Uno: Twitter edition! | - |
 | [@what_capital](https://twitter.com/what_capital) | What's the capital? | offline |
+| [Emoji Snake Game](https://twitter.com/EmojiSnakeGame) | The Snake game with emoji and Twitter polls. | - |
+| [Emoji Tetra](https://twitter.com/EmojiTetra) | Falling shapes made from emoji, moved and rotated by Twitter poll results. | - |
 | [Endless Jeopardy](https://twitter.com/EndlessJeopardy) | A game of Jeopardy!, forever. | - |
 | [Game Design Expert](https://twitter.com/GameDesignXpert) | Invaluable advice that all game developers need! | - |
 | [Nonogram Bot](https://twitter.com/nonogram_bot) | Nonogram puzzle generator. | offline |
@@ -125,6 +258,7 @@ Bot | Description | Status |
 | [Snake on Twittеr](https://twitter.com/FeedSnakeBot) | Play snake with others, right on Twitter! | - |
 | [Tic-Tac-Toe Bot](https://twitter.com/PlayTTTBot) | Play tic-tac-toe with friends without leaving Twitter. | - |
 | [Tweeters Play Games](https://twitter.com/PlayGamesBot) | Let's play a game, on Twitter! | - |
+| [rockpaperscissor](https://twitter.com/Ro_Sham_Bot) | Want to battle? ✊✋✌ | offline |
 | [Тwitter Plays Snake](https://twitter.com/SnakeGameBot) | 🐍🍎 | offline |
 
 
@@ -231,11 +365,8 @@ Bot | Description | Status |
 Bot | Description | Status |
 |---|---|---|
 | [@Botgle](https://twitter.com/Botgle) | The game is played using a plastic grid of lettered dice, in which players attempt to find words in sequences of adjacent letters. | offline |
-| [@EmojiSnakeGame](https://twitter.com/EmojiSnakeGame) | The Snake game with emoji and Twitter polls. | - |
-| [@EmojiTetra](https://twitter.com/EmojiTetra) | Falling shapes made from emoji, moved and rotated by Twitter poll results. | - |
 | [@Hangman_Bot](https://twitter.com/Hangman_Bot) | Play a game of hangman. | offline |
 | [@LetsPlayTrivia](https://twitter.com/LetsPlayTrivia) | A bot that posts trivia questions as polls | - |
-| [@Ro_Sham_Bot](https://twitter.com/Ro_Sham_Bot) | Want to battle? ✊✋✌ | offline |
 | [@RollDiceBot](https://twitter.com/RollDiceBot) | Dice bot loves to play dice games, ask it for a roll! | - |
 | [@TheRiddlerBot](https://twitter.com/TheRiddlerBot) | Solve the riddle! | offline |
 | [@TresEnRayaBot](https://twitter.com/TresEnRayaBot) | Play Tic-tac-toe on Twitter! | - |
@@ -253,6 +384,8 @@ Bot | Description | Status |
 | [@spindlewheelbot](https://twitter.com/spindlewheelbot) | An interpretive, card-based storytelling bot. | - |
 | [@unoforeveryone](https://twitter.com/unoforeveryone) | Cooperative Uno: Twitter edition! | - |
 | [@what_capital](https://twitter.com/what_capital) | What's the capital? | offline |
+| [Emoji Snake Game](https://twitter.com/EmojiSnakeGame) | The Snake game with emoji and Twitter polls. | - |
+| [Emoji Tetra](https://twitter.com/EmojiTetra) | Falling shapes made from emoji, moved and rotated by Twitter poll results. | - |
 | [Endless Jeopardy](https://twitter.com/EndlessJeopardy) | A game of Jeopardy!, forever. | - |
 | [Game Design Expert](https://twitter.com/GameDesignXpert) | Invaluable advice that all game developers need! | - |
 | [Nonogram Bot](https://twitter.com/nonogram_bot) | Nonogram puzzle generator. | offline |
@@ -260,6 +393,7 @@ Bot | Description | Status |
 | [Snake on Twittеr](https://twitter.com/FeedSnakeBot) | Play snake with others, right on Twitter! | - |
 | [Tic-Tac-Toe Bot](https://twitter.com/PlayTTTBot) | Play tic-tac-toe with friends without leaving Twitter. | - |
 | [Tweeters Play Games](https://twitter.com/PlayGamesBot) | Let's play a game, on Twitter! | - |
+| [rockpaperscissor](https://twitter.com/Ro_Sham_Bot) | Want to battle? ✊✋✌ | offline |
 | [Тwitter Plays Snake](https://twitter.com/SnakeGameBot) | 🐍🍎 | offline |
 
 
@@ -339,10 +473,8 @@ Bot | Description | Status |
 | [@carlomarxbot](https://twitter.com/carlomarxbot) | I tweet in the style of Allen Ginsberg's "Howl". | - |
 | [@coupletbot](https://twitter.com/coupletbot) | Generates heroic couplets. | - |
 | [@eecummings_bot](https://twitter.com/eecummings_bot) | New E.E. Cummings poems. | - |
-| [@emojiUSA](https://twitter.com/emojiUSA) | A patriot bot. | - |
 | [@emoji_haiku](https://twitter.com/emoji_haiku) | Emoji + Haiku | cancelled |
 | [@fearwantbot](https://twitter.com/fearwantbot) | One fear, one want. | - |
-| [@forestgen](https://twitter.com/forestgen) | Tweet me to get your own unique peaceful forest. Stay calm. | offline |
 | [@glossatory](https://twitter.com/glossatory) | An endless dictionary from a recurrent neural net. | - |
 | [@goth_lyrics](https://twitter.com/goth_lyrics) | A bot that writes lugubrious and morose poetry. | - |
 | [@haiku_ebooks](https://twitter.com/haiku_ebooks) | Tweets that fit the haiku structure. | offline |
@@ -368,8 +500,10 @@ Bot | Description | Status |
 | [Abandonedbot](https://twitter.com/bot_abandoned) | Robot poetry from the Moon. | - |
 | [Cat Poem Generator](https://twitter.com/cat_poem) | Generative poems about cats. | - |
 | [Dada Poet](https://twitter.com/DadaistTwit) | Reject the logic, reason, and aestheticism of modern capitalist society - read Dadaist poems instead! | - |
+| [Emoji-Spangled Bot](https://twitter.com/emojiUSA) | a patriot bot | offline |
 | [Mes troubles anxieux](https://twitter.com/mestroubles) | Ce qui cause mon trouble d'anxiété généralisé. | - |
 | [PAC-MAN Poetry](https://twitter.com/pacman_poetry) | BOT AND ART | - |
+| [peaceful forest bot](https://twitter.com/forestgen) | Tweet me to get your own unique peaceful forest. Stay calm. | offline |
 
 
 **[⬆ Back to Index](#index)**
